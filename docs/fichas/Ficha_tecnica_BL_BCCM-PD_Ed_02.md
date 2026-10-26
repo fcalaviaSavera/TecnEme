@@ -1,0 +1,458 @@
+# Ficha tecnica BL BCCM-PD Ed 02
+
+## Datos de la ficha
+
+- **Referencia:** No identificada
+- **Familia:** OTROS
+- **Edición:** 02
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica BL BCCM-PD Ed 02.pdf`
+
+## Extracto técnico
+
+```
+Ed. 02 
+Pág. 1 / 5FICHA TÉCNICA 
+BANCADA CON CUARTO DE MÁQUINAS BCCM-PD 
+NERVIO INFERIOR POLEA 
+SOPORTE VERTICAL MÁQUINA DCHA. 
+NERVIO CENTRAL SOPORTE MÁQUINA 
+SOPORTE HORIZONTAL POLEA 
+SOPORTE PIE MÁQUINA 
+REFUERZO LATERAL SOPORTE MAQ. IZDQ. 
+REFUERZO LATERAL SOPORTE MAQ. DCHA. 
+CALZA APOYO BANCADA 
+SOPORTE VERTICAL MÁQUINA IZDA. 
+SOPORTE ANTIVIBRATORIO 
+CALZA SOPORTE ANGULAR POLEA 
+SOPORTE ANGULAR POLEA 
+PLACA CARENADO 
+LATERAL RECTO POLEA 
+PLACA CARENADO DESVÍO POLEA 
+PLACA CARENADO DELANTERO MÁQUINA 
+PLACA CARENADO LATERAL INT. ANGULAR MAQ. DCH. 
+PLACA CARENADO LATERAL EXTERIOR MAQ. 
+POLEA DE DESVÍO 
+Ed. 01 
+Pg. 1 / 5TECHNICAL SHEET 
+MACHINE ROOM DRIVE SUPPORT BCCM-PD 
+MACHINE FRONT FAIRING PLATE 
+INSIDE MACHINE FAIRING PLATE 
+LEFT VERTICAL MACHINE SUPPORT 
+RIGHT VERTICAL MACHINE SUPPORT 
+CENTRAL SUPPORT NERVE MACHINE 
+STRAIGHT SIDE 
+FAIRING PLATE PULLEY 
+HORIZONTAL SUPPORT PULLEY 
+PULLEY DEFLECTION FAIRING PLATE 
+ANTI-VIBRATION SUPPORT 
+BENCH SUPPORT SHIM 
+LATERAL REINFORCEMENT LEFT MACH. SUPPORT 
+LATERAL REINFORCEMENT RIGHT MACH. SUPPORT 
+LOWER NERVE PULLEY 
+ANGLE SUPPORT PULLEY 
+ANGLE SUPPORT SHIM PULLEY 
+MACHINE FOOT SUPPORT 
+INSIDE ANGULAR RIGHT MACHINE FAIRING PLATE 
+DIVERTER PULLEY 
+Savera 
+Elevator  System Solutions 
+EMESA
+F-10254_02 
+Ed. 02 
+Pág. 2 / 5FICHA TÉCNICA 
+BANCADA CON CUARTO DE MÁQUINAS BCCM-PD 
+AC: 
+    si (2xHPM)-75>AP+20; (2xHPM)-75 
+    si (2xHPM)-75<=AP+20; AP+20 
+Ed. 01 
+Pg. 2 / 5TECHNICAL SHEET 
+MACHINE ROOM DRIVE SUPPORT BCCM-PD 
+AC: 
+    if (2xHPM)-75>AP+20; (2xHPM)-75 
+    if (2xHPM)-75<=AP+20; AP+20 
+Savera 
+Elevator  System Solutions 
+EMESA
+F-10254_02 
+L = CC + 290 
+500 
+160 
+VM 
+HM 
+37,5 
+30 
+H = HM + AC + 145 
+HPM 
+DPC 
+115 
+4
+355 
+205 
+CC 
+192,5 
+50 
+AC 
+6
+AP 
+CC-DPM/2-VM-398-DPC/2 ≥ 0 
+120 170 
+Ed. 02 
+Pág. 3 / 5FICHA TÉCNICA 
+BANCADA CON CUARTO DE MÁQUINAS BCCM-PD 
+AC: 
+    si (2xHPM)-75>AP+20; (2xHPM)-75 
+    si (2xHPM)-75<=AP+20; AP+20 
+Ed. 01 
+Pg. 3 / 5TECHNICAL SHEET 
+MACHINE ROOM DRIVE SUPPORT BCCM-PD 
+AC: 
+    if (2xHPM)-75>AP+20; (2xHPM)-75 
+    if (2xHPM)-75<=AP+20; AP+20 
+Savera 
+Elevator  System Solutions 
+EMESA
+F-10254_02 
+CC-DPM/2-VM-398-DPC/2 < 0 
+CC 
+AP 
+AC 
+H = HM + AC + 145 
+DPC 
+VM 
+HPM HM 30 115 
+6
+4
+50 
+500 193,7 
+355 
+205 
+L = CC + 290 
+37,5 
+160 
+120 170 
+Ed. 02 
+Pág. 4 / 5FICHA TÉCNICA 
+BANCADA CON CUARTO DE MÁQUINAS BCCM-PD 
+Tabla1 
+VARIABLES MIN. MAX. 
+P+Q - 1850 
+DPM: 240 320 
+HM: 115 458 
+VM: 200 280 
+HPM: Ver tabla 2 160 
+M≡DM: 12 24 
+* DPC: 240 320 
+* CC: Ver tabla 2 950 
+(Es responsabilidad del cliente comprobar que los parámetros facilitados en el pedido no impiden el correcto montaje de la máquina)
+Hasta 10 cables de ø6,5 mm y hasta 8 cables de ø8. 
+Peso aproximado 143Kg 
+Valores fuera de los rangos de esta tabla, consultar. 
+Datos mínimos para realizar el pedido: DPM, HPM, DPC, CC, modelo máquina, nº cables y ø.
+Si no se especifica el modelo de máquina añadir: HM, VM, HPM, M, + bolsa de tornillería máquina.
+INCLUYE: 
+- Tornillería de unión máquina.
+- Soportes antivibratorios 
+- Carenado polea desvío 
+OPCIONAL: 
+ - Polea de desvío 
+DESCRIPCION 
+Carga nominal máxima 
+Diámetro polea tractora.
+Distancia entre taladros de máquina 
+Distancia entre taladros de máquina 
+Dist. de centro polea a taladros máquina 
+Diámetro tornillo unión máquina.
+Díametro de la  polea de desvío 
+Caida de cables 
+CÓDIGO DE PRODUCTO: Tabla 3 
+CÓDIGO 
+D0003M00B30 
+DESCRIPCIÓN 
+Cto. bancada BCCM-PD 
+Tabla 2 
+VM 200 VM 210 VM 220 VM 250 VM 270 VM 280 
+240x10x6 111 100 460 465 470 485 495 500 
+265x8x6 94 90 
+265x6x6 77 80 
+320x8x8 111 100 
+320x4x8 77 80 
+CC mín.
+580 
+470 
+Ø Polea HPM mín.AP 
+480 495 505 510 
+585 
+475 
+590 605 615 620 
+G= 180 - A 
+A= arctan (DC/ (MM+PP)) 
+DC= CC -(DPM/2)-(DPC/2) 
+MM= Dist. Base Maq. a centro DPM 
+PP=  Ver pag. 2 y 3 
+Ed. 01 
+Pg. 4 / 5TECHNICAL SHEET 
+MACHINE ROOM DRIVE SUPPORT BCCM-PD 
+Table 1 
+VARIABLES MIN. MAX. 
+P+Q - 1850 
+DPM: 240 320 
+HM: 115 458 
+VM: 200 280 
+HPM: See table 2 160 
+M≡DM: 12 24 
+* DPC: 240 320 
+* CC: See table 2 950 
+Up to 10 wires ø6,5 and up to 8 wires ø8 or ø10 
+Aprox. Weight  143 Kg 
+Other features out of range, please enquire 
+Minimum values to do an order: DPM, HPM, DPC, CC, machine model, nº and ø ropes 
+If machine model is not specified add: HM, VM, HPM,  DBA, M, + Machine fix bolts kit 
+INCLUDED: 
+- Machine fix bolts 
+- Anti-vibration support 
+- Diverter Pulley covers 
+OPTIONAL: 
+ - Diverter pulley 
+Distance between machine holes 
+Distance between machine holes 
+Distance from pulley axis to machine holes 
+Diameter of machine fix bolts 
+(It is the responsability of the customer to check that the parameters provided in te order do not 
+prevent the correct assembly of the traction machine) 
+DESCRIPTION 
+Máximum nominal load 
+Pulley diameter 
+Distance between CW ropes 
+Distance between ropes 
+Table 3 
+CODE 
+D0003M00B30 Drive support assembly BCCM-PD 
+DESCRIPTION 
+PRODUCT CODES: 
+Table 2 
+VM 200 VM 210 VM 220 VM 250 VM 270 VM 280 
+240x10x6 111 100 460 465 470 485 495 500 
+265x8x6 94 90 
+265x6x6 77 80 
+320x8x8 111 100 
+320x4x8 77 80 
+Ø Pulley HPM min. CC min. 
+470 475 480 495 505 510 
+AP 
+580 585 590 605 615 620 
+G= 180 - A 
+A= arctan (DC/ (MM+PP)) 
+DC= CC -(DPM/2)-(DPC/2) 
+MM= Dist. between DPM center to machiene bottom 
+PP= See pg.2 & 3 
+Savera 
+Elevator  System Solutions 
+EMESA
+F-10254_02 
+CC 
+PP MM 
+DC 
+Av
+Av
+Gv
+Ed. 02 
+Pág. 5 / 5FICHA TÉCNICA 
+BANCADA CON CUARTO DE MÁQUINAS BCCM-PD 
+Tabla 4 
+210 
+240 
+320 
+210 
+240 
+320 
+210 
+240 
+320 
+210 
+240 
+320 
+210 
+240 
+320 
+210 
+240 
+320 
+240 
+320 
+240 
+320 
+240 
+320 
+ACT 360 Lateral 240 8 458 280 20 60 8,8 D0101M010545 
+320 
+G-200 T1 Lateral 210 6,5 206 200 16 50 8,8 D0101M010546 
+G-300 T1 Lateral 210 6,5 380 200 16 50 8,8 D0101M010546 
+G-300 T2 Lateral 240 6,5 380 200 16 50 8,8 D0101M010546 
+G-400 T1 Lateral 320 8 270 270 24 50 8,8 D0101M010547 
+G-400 T2 Lateral 320 8 430 270 24 50 8,8 D0101M010547 
+200 
+240 
+200 
+240 
+240 6,5 
+320 8
+SM200.40 Lateral 240 6,5 300 220 20 50 8,8 D0101M010553 
+SM210.60 Lateral 320 8 377 270 24 50 8,8 D0101M010547 
+MSIP160.30 Lateral 320 8 230 250 16 40 8,8 D0101M010550 
+MSIP160.40 Lateral 320 8 280 250 16 40 8,8 D0101M010550 
+MSIP160.50 Lateral 320 8 330 250 16 40 8,8 D0101M010550 
+MSIP160.60 Lateral 320 8 380 250 16 40 8,8 D0101M010550 
+190 
+190 
+SM200.30 Lateral 235 
+Lateral 6,5 
+6,5 Lateral SM200.23 
+SM200.15 
+8,8 D0101M010544 
+14 40 8,8 D0101M010544 
+210 14 40 8,8 D0101M010544 
+8,8 D0101M010544 
+14 40 8,8 D0101M010544 
+14 40 
+FABRICANTE MODELO 
+POSIC. 
+POLEA 
+MAQ. 
+DPM [ø] DT [ø] HM 
+MINIACT 200 
+MINIACT 240 Lateral 6,5 323 
+TORNILLOS (M x L) 
+RES. BOLSA M LVM 
+14 40 
+40 8,8 D0101M010550 
+D0101M010550 8,8 40 16 220 
+280 
+8 338 
+D0101M010550 8,8 40 16 
+16 
+187 210 
+MINIACT 130 Lateral 6,5 221 210 
+6,5 289 210 Lateral 
+MINIACT 170 Lateral 6,5 255 210 
+8,8 D0101M010545 
+ACT 160 Lateral 6,5 258 280 20 60 8,8 D0101M010545 
+ACT 200 Lateral 6,5 298 
+8,8 D0101M010545 
+ACT 320 Lateral 8 418 280 20 60 8,8 D0101M010545 
+ACT 240 Lateral 280 20 60 
+220 
+220 
+CEG 
+20 60 
+MINIACT 100 Lateral 6,5 
+ZIEHL-ABEGG 
+LANCOR 
+SASSI 
+Ed. 01 
+Pg. 5 / 5TECHNICAL SHEET 
+MACHINE ROOM DRIVE SUPPORT BCCM-PD 
+Table 4: 
+210 
+240 
+320 
+210 
+240 
+320 
+210 
+240 
+320 
+210 
+240 
+320 
+210 
+240 
+320 
+210 
+240 
+320 
+240 
+320 
+240 
+320 
+240 
+320 
+240 
+320 
+G-200 T1 Side 210 6,5 206 200 16 50 8,8 D0101M010546 
+G-300 T1 Side 210 6,5 380 200 16 50 8,8 D0101M010546 
+G-300 T2 Side 240 6,5 380 200 16 50 8,8 D0101M010546 
+G-400 T1 Side 320 8 270 270 24 50 8,8 D0101M010547 
+G-400 T2 Side 320 8 430 270 24 50 8,8 D0101M010547 
+200 
+240 
+200 
+240 
+240 6,5 
+320 8
+SM200.40 Side 240 6,5 300 220 20 50 8,8 D0101M010553 
+SM210.60 Side 320 8 377 270 24 50 8,8 D0101M010547 
+MSIP160.30 Side 320 8 230 250 16 40 8,8 D0101M010550 
+MSIP160.40 Side 320 8 280 250 16 40 8,8 D0101M010550 
+MSIP160.50 Side 320 8 330 250 16 40 8,8 D0101M010550 
+MSIP160.60 Side 320 8 380 250 16 40 8,8 D0101M010550 
+ACT 160 
+ACT 240 
+MACHINE 
+PULLEY 
+POS. 
+ACT 200 
+Side 
+Side 
+MANUFACTURER 
+MINIACT 240 
+HM 
+255 
+DPM [ø] DT [ø]MODEL 
+8,8 D0101M010544 
+8,8 D0101M010544 
+D0101M010544 
+8,8 D0101M010544 
+16 40 8,8 D0101M010550 
+D0101M010544 
+8,8 D0101M010545 
+D0101M010545 
+60 
+D0101M010545 
+8,8 
+8,8 
+NO. BAG 
+8,8 
+8,8 
+D0101M010545 
+VM 
+BOLTS (M x L) 
+M L RES. 
+CEG 
+MINIACT 100 Side 6,5 187 210 14 40 
+MINIACT 130 Side 6,5 221 210 14 40 
+MINIACT 170 Side 6,5 210 14 40 
+MINIACT 200 
+Side 6,5 323 210 14 40 
+Side 6,5 289 210 14 40 
+6,5 258 280 20 
+8 418 280 20 60 
+8 338 280 20 60 
+16 40 8,8 
+ACT 360 Side 8 458 280 20 60 8,8 
+SM200.23 Side 6,5 
+SM200.15 Side 6,5 190 220 
+190 220 D0101M010550 
+SM200.30 Side 235 220 16 40 8,8 D0101M010550 
+Side 6,5 298 280 20 60 8,8 D0101M010545 
+ACT 320 Side 
+ZIEHL-ABEGG 
+LANCOR 
+SASSI 
+Savera 
+Elevator  System Solutions 
+EMESA
+F-10254_02 
+
+```

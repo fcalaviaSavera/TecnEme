@@ -1,0 +1,128 @@
+# Ficha tecnica BL BF100-BF200 Ed 03
+
+## Datos de la ficha
+
+- **Referencia:** No identificada
+- **Familia:** OTROS
+- **Edición:** 03
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica BL BF100-BF200 Ed 03.pdf`
+
+## Extracto técnico
+
+```
+BARANDILLA PROTECCION ABATIBLE BF100 / BF200
+FICHA TÉCNICA Pág. 1/3
+Contacto eléctrico 
+1NA1NC 
+Contacto eléctrico 
+1NA1NC 
+TECHNICAL SHEET
+FOLDING PROTECTION BALUSTRADE BF100 / BF200
+Pg. 1/3
+Electric contact 
+1NA1NC 
+Electrical contact 
+1NA1NC 
+Ed.
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+03
+A
+DET. A 
+B
+DET. B 
+BARANDILLA PROTECCION ABATIBLE BF100 / BF200
+FICHA TÉCNICA Pág. 2/3
+ INCLUYE
+- 2 contactos eléctricos 1NA1NC según EN 81-20.
+- No incluye zocalo.
+- 2 kit fijación barandilla.
+TECHNICAL SHEET
+FOLDING PROTECTION BALUSTRADE BF100 / BF200
+Pg. 2/3
+CONTAINS
+- 2 electrical contacts 1NA1NC  EN 81-20.
+- Skirting not included.
+- 2 balustrade fixing set.
+Ed.
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+03
+H
+BA
+L
+T
+342 
+147 
+54 
+M
+P
+61 
+27 
+12 
+C
+DET. C 
+30 57 
+291,5 
+49 
+12 
+25 
+12 
+41 51 
+R 5,5 
+87 
+41 67 
+116 
+26 
+53 
+BARANDILLA PROTECCION ABATIBLE BF100 / BF200
+FICHA TÉCNICA Pág. 3/3
+Nota: 
+Posición colocación barandilla ver página 5, Ficha Técnica "Barandilla Telescópica BT100". 
+No viable colocación de barandillas contiguas. 
+Código Descripcion H (mm) A (mm) B (mm) L (mm) T (mm) P (m m) M (mm) Peso (kg) 
+C400BF100066 Barandilla abatible BF100 TIPO1 H=700 L=500-660 705 365 305,5 500-660 530 578 255 9,71 
+C400BF100082 Barandilla abatible BF100 TIPO2 H=700 L=661-820 705 365 305,5 661-820 530 578 255 10,37 
+C400BF100098 Barandilla abatible BF100 TIPO3 H=700 L=821-980 705 365 305,5 821-980 530 578 255 11,05 
+C400BF100114 Barandilla abatible BF100 TIPO4 H=700 L=981-1140 705 365 305,5 981-1140 530 578 255 11,71 
+C400BF100130 Barandilla abatible BF100 TIPO5 H=700 L=1141-1300 705 365 305,5 1141-1300 530 578 255 12,39 
+C400BF100146 Barandilla abatible BF100 TIPO6 H=700 L=1301-1460 705 365 305,4 1301-1460 530 578 255 13,07 
+C400BF200066 Barandilla abatible BF200 TIPO1 H=1100 L=500-660 1105 555 515,5 500-660 770 788 444,5 12,34 
+C400BF200082 Barandilla abatible BF200 TIPO2 H=1100 L=661-820 1105 555 515,5 661-820 770 788 444,5 13,00 
+C400BF200098 Barandilla abatible BF200 TIPO3 H=1100 L=821-980 1105 555 515,5 821-980 770 788 444,5 13,68 
+C400BF200114 Barandilla abatible BF200 TIPO4 H=1100 L=981-1140 1105 555 515,5 981-1140 770 788 444,5 14,34 
+C400BF200130 Barandilla abatible BF200 TIPO5 H=1100 L=1141-1300 1105 555 515,5 1141-1300 770 788 444,5 15,02 
+C400BF200146 Barandilla abatible BF200 TIPO6 H=1100 L=1301-1460 1105 555 515,5 1301-1460 770 788 444,5 15,7 
+TECHNICAL SHEET
+FOLDING PROTECTION BALUSTRADE BF100 / BF200
+Pg. 3/3
+Notes: 
+For Balustrade position in roof see page 5, Technical Sheet "Telescopic Balustrade BT100". 
+Not available consecutive balustrades. 
+Code Description H (mm) A (mm) B (mm) L (mm) T (mm) P (mm) M (mm) Weight (kg) 
+C400BF100066 Folding balustrade set BF100 TYPE1 H=700 L=500-660 705 365 305,5 500-660 530 578 255 9,71 
+C400BF100082 Folding balustrade set BF100 TYPE2 H=700 L=661-820 705 365 305,5 661-820 530 578 255 10,37 
+C400BF100098 Folding balustrade set BF100 TYPE3 H=700 L=821-980 705 365 305,5 821-980 530 578 255 11,05 
+C400BF100114 Folding balustrade set BF100 TYPE4 H=700 L=981-1140 705 365 305,5 981-1140 530 578 255 11,71 
+C400BF100130 Folding balustrade set BF100 TYPE5 H=700 L=1141-1300 705 365 305,5 1141-1300 530 578 255 12,39 
+C400BF100146 Folding balustrade set BF100 TYPE6 H=700 L=1301-1460 705 365 305,4 1301-1460 530 578 255 13,07 
+C400BF200066 Folding balustrade set BF200 TYPE1 H=1100 L=500-660 1105 555 515,5 500-660 770 788 444,5 12,34 
+C400BF200082 Folding balustrade set BF200 TYPE2 H=1100 L=661-820 1105 555 515,5 661-820 770 788 444,5 13,00 
+C400BF200098 Folding balustrade set BF200 TYPE3 H=1100 L=821-980 1105 555 515,5 821-980 770 788 444,5 13,68 
+C400BF200114 Folding balustrade set BF200 TYPE4 H=1100 L=981-1140 1105 555 515,5 981-1140 770 788 444,5 14,34 
+C400BF200130 Folding balustrade set BF200 TYPE5 H=1100 L=1141-1300 1105 555 515,5 1141-1300 770 788 444,5 15,02
+C400BF200146 Folding balustrade set BF200 TYPE6 H=1100 L=1301-1460 1105 555 515,5 1301-1460 770 788 444,5 15,7 
+Ed.
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+03
+
+```

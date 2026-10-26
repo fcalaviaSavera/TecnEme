@@ -1,0 +1,53 @@
+# Ficha tecnica SPA Ed 01
+
+## Datos de la ficha
+
+- **Referencia:** No identificada
+- **Familia:** OTROS
+- **Edición:** 01
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica SPA Ed 01.pdf`
+
+## Extracto técnico
+
+```
+Pág. 1/2
+SISTEMA PRUEBA ACUÑAMIENTO (CHASIS HIDRÁULICOS) SPA Ed. 01
+FICHA TÉCNICA
+Elevator  System Solutions
+Savera
+EMESA
+FR-7 054-01
+TIRADOR DE ACCIONAMIENTO
+TIRADOR DE REARME
+TENSOR CABLE
+MUELLE CON CASQUILLOS
+POLEA CABLE
+Pág. 2/2
+Ed. 01
+FICHA TÉCNICA
+SISTEMA PRUEBA ACUÑAMIENTO (CHASIS HIDRÁULICOS) SPA
+Elevator  System Solutions
+Savera
+EMESA
+FR-7 054-01
+L
+ØM
+X
+HZ
+POSICIÓN EN
+REPOSO
+POSICIÓN EN
+ACCIONAMIENTO
+CARACTERISTICAS:
+Øcable (P+Q/nº cables)max Lmin HZ ØM X
+6‐8 330 185 156 45 M12
+330 185 150 50 M16
+575 195 160 50 M16
+330 190 150 50 M20
+575 200 160 50 M20
+9‐11
+12‐14
+
+```

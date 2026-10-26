@@ -1,0 +1,129 @@
+# Ficha tecnica BL CAH-265-2 Ed 02
+
+## Datos de la ficha
+
+- **Referencia:** CAH-265-2
+- **Familia:** CAH
+- **Edición:** 02
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica BL CAH-265-2 Ed 02.pdf`
+
+## Extracto técnico
+
+```
+CABEZAL HIDRÁULICO CAH-265-2 
+FICHA TÉCNICA Pág. 1/2
+POLEA Ø265x2x10 
+EJE CABEZAL 
+FIJACION PLACA 
+LATERAL A EJE CABEZAL 
+GUIADOR CAH-265 G9 
+TRAVESAÑO SUPERIOR 
+CABEZAL 
+CTO. APOYO A CILINDRO 
+CARENADO CABEZAL 
+PLACA LATERAL 
+CABEZAL 
+ENGRASADOR (OPCIONAL) 
+TECHNICAL SHEET 
+HYDRAULIC HEADER CAH-265-2 
+Pg. 1/2
+PULLEY Ø265x2x10 
+CLYLINDER FIXING ASSEMBLY 
+HEADER SHAFT 
+SIDE PLATE FIXING 
+FOR HEADER SHAFT 
+PULLEY PROTECTION 
+HEADER SIDE PLATE 
+GUIDE SHOE INSERT CAH-265 G9 
+HEADER UPPER CROSSBEAM 
+LUBRICATOR (OPTIONAL) 
+Ed. 02 
+Savera 
+Elevator  System Solutions 
+EMESA
+F-10254_02 
+CABEZAL HIDRÁULICO CAH-265-2 
+FICHA TÉCNICA Pág. 2/2
+Peso aprox. : 15 Kg (± 1,5 Kg) 
+EG 
+T   
+  EG 
+(1)     550 (2) 
+600 
+650 
+700 
+750 
+800 
+850 
+900 
+950 
+1000 
+360 
+410 
+460 
+510 
+TIROS ADMITIDOS 
+MODO DE LECTURA: 
+(1) Según la EG, obtendremos los 
+tiros admitidos (2) sombreado para 
+cada caso. 
+EG: Entreguía 
+T: Tiro admitido 
+FIJACIÓN CABEZAL A PISTÓN 
+ENGRASADOR 
+TECHNICAL SHEET 
+HYDRAULIC HEADER CAH-265-2 
+Pg. 2/2
+HEADER-CYLINDER FIXING 
+LUBRICATOR 
+Aprox. weight : 15 Kg (± 1,5 Kg) 
+AVAILABLE SUSPENSION POINTS 
+READING MODE: 
+(1) According to DBG,available 
+suspension points are obtained (2) 
+shaded for each case. 
+DBG: Distance between guides 
+T: Available suspension point 
+Ø PULLEY 
+T   
+DBG 
+(1)     550 (2) 
+600 
+650 
+700 
+750 
+800 
+850 
+900 
+950 
+1000 
+Ø 265 
+360 
+410 
+460 
+510 
+DBG 
+Ed. 02 
+Savera 
+Elevator  System Solutions 
+EMESA
+F-10254_02 
+280 
+84 
+235 175 
+84 
+O
+265 
+140 
+T
+99,1 
+410 
+71 
+O
+32 
+87 
+67 
+
+```

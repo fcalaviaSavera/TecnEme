@@ -1,0 +1,69 @@
+# Ficha tecnica FPAC-XXX Ed.02
+
+## Datos de la ficha
+
+- **Referencia:** PAC-XXX
+- **Familia:** PAC
+- **Edición:** 02
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica FPAC-XXX Ed.02.pdf`
+
+## Extracto técnico
+
+```
+Pág. 1/2
+FIJACION PILAR APOYO CILINDRO FPAC-XXX Ed. 02
+FICHA TÉCNICA
+Elevator  System Solutions
+Savera
+EMESA
+FIJACIÓN A  VARILLA
+FIJACIÓN A PARED
+VARILLA ROSCADA EN U
+PROLONGADOR
+SIN PROLONGADOR
+CON PROLONGADOR
+Pág. 2/2
+FIJACION PILAR APOYO CILINDRO FPAC-XXX
+FICHA TÉCNICA
+Ed. 02
+Elevator  System Solutions
+Savera
+EMESA
+T
+EJE CILINDRO
+PARED
+ANCHURA FIJACIONES
+FPAC-120FPAC-65FPAC-35
+130
+130
+200
+118
+59
+73
+27
+73
+27
+REGULACIÓN EJE CILINDRO A PARED ( T )
+Tubo  TIPO VA RILLA MODELO PROLONG.
+FPAC-35 NO 65 <= T <= 95
+NO 95 < T <= 195
+SI 195 < T <= 330
+FPAC-35 NO 65 <= T <= 110
+NO 110 < T <= 210
+SI 210 < T <= 345
+NO 90 <= T <= 220
+SI 220 < T <= 345
+NO 103 <= T <= 232,5
+SI 232,5 < T <= 345
+T
+FPAC-65
+FPAC-120100 TIPO 6
+FPAC-65
+50 TIPO 15
+80 TIPO 11
+125 TIPO 10 FPAC-120
+Nota:Tubo es la dimensión externa de la sección del pilar apoyo cilindro
+
+```

@@ -1,0 +1,78 @@
+# Ficha tecnica BUFFER Ed 04
+
+## Datos de la ficha
+
+- **Referencia:** No identificada
+- **Familia:** OTROS
+- **Edición:** 04
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica BUFFER Ed 04.pdf`
+
+## Extracto técnico
+
+```
+Pág. 1/2
+AMORTIGUADOR Ed. 04 
+FICHA TÉCNICA
+Elevator  System Solutions
+Savera 
+EMESA
+FR-7 054-01 
+AMORTIGUADOR D0/D2/D3
+AMORTIGUADOR D0/D2/D3 TIPO C 
+Pág. 2/2FICHA TÉCNICA
+Elevator  System Solutions
+Savera 
+EMESA
+AMORTIGUADOR Ed. 04 
+FR-7 054-01 
+CARACTERÍSTICAS
+* Los pedidos, deberán cumplimentarse según los modelos de la tabla 
+  H S
+O D 
+ L 
+ L 
+ L1 
+ L1 
+D3 
+O D 
+O D2 O D2 O D1 O D1 
+  H 
+AMORTIGUADORSIN PLACA DE APOYO AMORTIGUADORCON PLACA DE
+APOYO (TIPO C) 
+FL 
+FL 
+MODELO RANGO 
+AMORTIGUADOR ØD ØD1 ØD2 ØD3 H S L L1 FL VELOCIDAD (m/s) MIN MAX
+D0 0,63 150 1200 
+211800774 1 180 600 
+D2 0,63 250 3200 
+211802774 1 330 1250 
+D3 0,63 500 5200 
+211803774 1 600 1850 
+D5 0,63 600 7500 
+211805074 1 650 2700 
+D0 0,63 150 1200 
+211800174 1 180 600 
+D2 0,63 250 3200 
+211802174 1 330 1250 
+D3 0,63 500 5200 
+211803174 1 600 1850 
+- - 72 165 35 17 - 80 -
+72 
+DIMENSIONES (mm) CARGA (kg) 
+72 
+80 35 17 12 ± 0,5 80 4 105 80 
+125 72 
+125 35 17 - 80 - - -
+100 72 
+125 35 17 18 ± 0,5 80 6 155 
+- - 72 
+100 35 17 14 ± 0,5 80 6 130 
+- - 72 
+100 35 17 - 80 -
+80 35 17 - 80 -
+TIPO C 
+
+```

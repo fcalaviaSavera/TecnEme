@@ -1,0 +1,419 @@
+# Ficha tecnica BL BSMP-750-PI Ed 01
+
+## Datos de la ficha
+
+- **Referencia:** No identificada
+- **Familia:** OTROS
+- **Edición:** 01
+- **Estado:** No distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\Fichas NO distribuidas\Productos Raloe\Ficha tecnica BL BSMP-750-PI Ed 01.pdf`
+
+## Extracto técnico
+
+```
+Pág. 1 / 7FICHA TÉCNICA
+BANCADA SIN CUARTO DE MÁQUINAS PÓRTICO - BSMP-750-PI
+CALZAS 
+SISTEMA EMBRIDADO 
+GUÍA CABINA 
+TORNILLERÍA PARA 
+GUÍA DE CABINA 
+AISLANTES 
+(OPCIONAL) FIJACIÓN GUÍA CONTRAPESO 
+TORNILLERÍA PARA 
+GUÍA CONTRAPESO 
+BRIDAS FORJADAS PARA 
+GUÍA CONTRAPESO 
+PLACA BASE MÁQUINA 
+BSMP-750 
+TORNILLOS SUJECCIÓN 
+MÁQUINA 
+BANCADA 
+BSMP-750-PI 
+TERMINALES DE SUSPENSION 
+Pg. 1 / 7TECHNICAL SHEET
+MRL DRIVE SUPPORT - BSMP-750-PI
+FIX BOLTS 
+FOR CAR GUIDE 
+CAR GUIDE 
+CLIP SYSTEM 
+WEDGES 
+ISOLATION 
+(OPTIONAL) 
+ROPE ENDINGS 
+COUNTERWIEGHT 
+GUIDE FIX 
+COUNTERWEIGHT 
+GUIDE FIX BOLTS 
+FORGED CLIPS 
+FOR COUNTERWEIGHT GUIDE 
+MACHINE FIX BOLTS 
+MACHINE PLATE 
+BSMP-750 
+DRIVE SUPPORT 
+BSMP-750-PI 
+Ed. 01
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+Pág. 2 / 7FICHA TÉCNICA
+BANCADA SIN CUARTO DE MÁQUINAS PÓRTICO - BSMP-750-PI
+VISTA ISOMÉTRICA 
+MANO DERECHA 
+VISTA ISOMÉTRICA 
+MANO IZQUIERDA 
+Pg. 2 / 7TECHNICAL SHEET
+MRL DRIVE SUPPORT - BSMP-750-PI
+ISOMETRIC VIEW 
+RIGHT HAND 
+ISOMETRIC VIEW 
+LEFT HAND 
+Ed. 01
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+Pág. 3 / 7FICHA TÉCNICA
+BANCADA SIN CUARTO DE MÁQUINAS PÓRTICO - BSMP-750-PI
+EGCC 
+ESQUEMA MÁQUINA
+Nota: para establecer el signo correcto de VPA 
+Si: 
+L
+(  +HCC) ≤ (HCC+HGCA+HT+HPM+62) 
+(
+ 
+ +HCC) > (HCC+HGCA+HT+HPM+62) 
+ 
+ +HCC 
+HCC+HGCA+HT+HPM+62 
+Pg. 3 / 7TECHNICAL SHEET
+MRL DRIVE SUPPORT - BSMP-750-PI
+Note: to find VPA correct sign 
+MACHINE DRAFTING
+If: 
+L
+(  +HCC) ≤ (HCC+HGCA+HT+HPM+62) 
+(
+ 
+ +HCC) > (HCC+HGCA+HT+HPM+62) 
+ 
+ +HCC 
+HCC+HGCA+HT+HPM+62 
+DBGCC 
+Ed. 01
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+HT>0 
+250 
+HCC HCC 7
+296 
+A
+L
+DPM+VPA AA/2+CLB+12,5 
+2*HPM 
+HPM 
+VM 
+HM 
+HT 
+HPF 
+HGCA 
+32,5 32,5 
+35 
+HT 
+HPM HM 
+VM 
+O DM 
+VECA 
+DPM 
+VCA 
+VPA + VPA - 
+DPM 
+VPA 
+VECA 
+ODM+3 
+DCM 
+32,5 32,5 
+HT 
+DM < 18; B=25 mm; C=10 mm 
+DM ≥ 18; B=12,5 mm; C=12,5mm 
+DM < 18; A=59 mm 
+DM ≥ 18; A=49 mm 
+A
+ A 
+C 6 B 15 
+DM 
+DPM-60 
+Y X X = HT-HPM+27,5 
+Y min. = HPM+HM-HT+27,5 
+Pág. 4 / 7FICHA TÉCNICA
+BANCADA SIN CUARTO DE MÁQUINAS PÓRTICO - BSMP-750-PI
+ESQUEMA MÁQUINA
+Nota: para establecer el signo correcto de VPA 
+EGCC 
+Si: 
+L
+(  +HCC) ≤ (HCC+HGCA+HT+HPM+62) 
+(  +HCC) > (HCC+HGCA+HT+HPM+62) 
+ 
+ +HCC 
+HCC+HGCA+HT+HPM+62 
+Pg. 4 / 7TECHNICAL SHEET
+MRL DRIVE SUPPORT - BSMP-750-PI
+Note: to find VPA correct sign 
+MACHINE DRAFTING
+DBGCC 
+If: 
+L
+(  +HCC) ≤ (HCC+HGCA+HT+HPM+62) 
+(
+ 
+ +HCC) > (HCC+HGCA+HT+HPM+62) 
+ 
+ +HCC 
+HCC+HGCA+HT+HPM+62 
+Ed. 01
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+HPM HM 
+VM 
+O
+DM 
+VECA 
+DPM 
+VCA 
+VPA + VPA - 
+HCC 
+7
+HCC 
+HPM 
+DPM + VPA 
+VM 
+DPM 
+VPA 
+HT=0 
+O DM+3 
+A
+250 
+HGCA 
+296 
+HPF 0HT= 
+DM < 18; B=25 mm; C=10 mm 
+DM ≥ 18; B=12,5 mm; C=12,5mm 
+DM < 18; A=59 mm 
+DM ≥ 18; A=49 mm 
+L
+32,5 HM 2*HPM 
+0HT= 
+DCM 
+VECA 
+AA/2+CLB+12,5 
+32,5 
+32,5 32,5 
+A
+ A 
+C 6 B 15 
+DM 
+DPM-60 
+HPM+26 HPM+26 
+Pág. 5 / 7FICHA TÉCNICA
+BANCADA SIN CUARTO DE MÁQUINAS PÓRTICO - BSMP-750-PI
+INCLUYE:
+- 1 Placa bajo máquina (según máquina).
+- Tornillería de unión máquina.
+- Bridas forjadas.
+- Calzas de guías.
+- Peines alineadores de cables.
+OPCIONAL:
+- Bolsa tacos aislantes.
+ (Es responsabilidad del cliente comprobar que los parámetros facilitados en el pedido no impiden el correcto montaje de la máquina)
+VARIABLES DESCRIPCION MIN. MAX. Tabla 
+HM: Distancia entre taladros de máquina 120 380 2
+VM: Distancia entre taladros de máquina 150 300 2
+HPM: Dist. de centro polea a taladros máquina 70 160 2
+DPM: Diámetro polea tractora. 180 240 2
+VECA: Distancia entre EGCC y la espalda de guia de c abina 75 300 
+EGCC: Entreguía contrapeso. 450 800 
+HGCA: Descentramiento guía cabina lado izdo. 150 650 
+EGCC-HGCA: Descentramiento guía cabina lado dcho. 15 0 650 
+HPF: Dist. de punta de guía cab. a caida de cables C C. Cable ø6,5 45 200 
+VPA: Dist. de punta de guía cab. a caida de cables -3 0 50 2
+HT: Dist. de punta de guía cab. a caida de cables CA 0 195 2
+DBA: Diámetro taladro aislante inferior 21 30 2
+DT: Diámetro de cables. 6,5 7 2
+CLB: Anchura trasera brida. 16 24 1
+Hasta 10 cables de ø6,5mm 
+Valores fuera de los rangos de esta tabla, consultar. 
+P+Q máx = 1800 Kg 
+Datos mínimos para realizar el pedido: VPA, DCM, DPM, HPM, HT, DBGCC, HGCA, VECA, HPF, guía cabina, 
+guía contrapeso, modelo de máquina. 
+AISLANTE 
+SUPERIOR 
+TORNILLO CON TALADRO 
+PARA SUJECCIÓN MAQUINA 
+ALAMBRE PASADOR 
+ESQUEM A SUJECCIÓN MÁ QUINA
+CASQUILLO 
+INTERIOR AISLANTE 
+INFERIOR 
+ARANDELA 
+PLACA BASE 
+MÁQUINA 
+Pg. 5 / 7TECHNICAL SHEET
+MRL DRIVE SUPPORT - BSMP-750-PI
+INCLUDES:
+- 1 Machine plate (according on machine model).
+- Machine fix bolts.
+- Forged guide clips.
+- Guide wedges.
+- Ropes aligner combs.
+OPTIONAL:
+- Isolating buffers.
+VARIABLES DESCRIPTION MIN. MAX. Table 
+HM: Distance between machine holes. 120 380 2
+VM: Distance between machine holes. 150 300 2
+HPM: Distance from pulley axis to machine holes. 70 16 0 2
+DPM: Pulley diameter. 180 240 2
+VECA: Distance from EGCC to car guide back. 75 300 
+DBGCC: Distance between counterweight guides. 450 800 
+HGCA Left car guide off-center. 150 650 
+EGCC-HGCA: Right car guide off-center. 150 650 
+HPF: Distance from car guide head to CW suspension p oint. Rope ø6,5 45 200 
+VPA: Distance from car guide head to machine suspens ion point. -30 50 2
+HT: Distance from car guide head to CA suspension po int. 0 195 2
+DBA: Diameter of Lower isolating buffer hole. 21 30 2
+DT: Diameter of ropes. 6,5 7 2
+CLB: Half back clip dimension. 16 24 1
+Up to 10  ø6,5mm 
+Other features out of range, please enquire. 
+P+Q max= 1800Kg 
+Minimun values to do an order: VPA, DCM, DPM, HPM, HT, DBGCC, HGCA, VECA, HPF, car guide, 
+counterweight guide, machine model. 
+(It is the responsibility of the customer to check that the parameters provided in the order do not prevent the correct assembly of the traction machine)
+UPPER ISOLATING 
+BUFFER 
+LOWER 
+ISOLATNG BUFFER 
+DRILLED BOLT FOR 
+MACHINE FIXING 
+FASTENER WIRE 
+MA CHINE FIXING DRAWING
+MACHINE PLATE 
+WASHER 
+INTERNAL 
+BUSHING 
+Ed. 01
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+O M 
+O DBA 
+Pág. 6 / 7FICHA TÉCNICA
+BANCADA SIN CUARTO DE MÁQUINAS PÓRTICO - BSMP-750-PI
+Tabla 1: 
+GUIA (a/b/c) CPESO. CABINA TIPO AA* M CLB 
+T45/A (45/45/5)   55 
+T50/A (50/50/5)   60 
+T65/A 65/54/9)   75 
+T70/A (70/65/9)   83 
+T78/B (78/56/10)   91 
+T82/A-B (82/68/9)   95 
+T125-L1/A (125/68/9)   138 
+T75/A-B (75/62/10)   88 
+T70-70-9/A (70/70/9)   86 
+T80-80-9/A (80/80/9)   96 
+T89/A-B (89/62/16)   105 
+T90/A-B (90/75/16)   106 
+T114/B (114/89/16)   131 
+T125/B (125/82/16)   142 
+T127-1/B (127/89/16)   144 
+16 
+19,5 
+24 
+BRIDAS 
+SS1 M10 
+M16 
+SS2 
+SS4 
+GUIA PERMITIDA 
+SS3 M14 
+M12 
+CÓDIGO DE PRODUCTO:
+CÓDIGO 
+D0007I000PID 
+D0007I000PII 
+DESCRIPCIÓN 
+Bancada BSMP-750-PI - Mano DERECHA 
+Bancada BSMP-750-PI - Mano IZQUIERDA 
+Pg. 6 / 7TECHNICAL SHEET
+MRL DRIVE SUPPORT - BSMP-750-PI
+Table 1: 
+GUIDE (a/b/c) CW CAR TYPE AA* M CLB 
+T45/A (45/45/5)   55 
+T50/A (50/50/5)   60 
+T65/A 65/54/9)   75 
+T70/A (70/65/9)   83 
+T78/B (78/56/10)   91 
+T82/A-B (82/68/9)   95 
+T125-L1/A (125/68/9)   138 
+T75/A-B (75/62/10)   88 
+T70-70-9/A (70/70/9)   86 
+T80-80-9/A (80/80/9)   96 
+T89/A-B (89/62/16)   105 
+T90/A-B (90/75/16)   106 
+T114/B (114/89/16)   131 
+T125/B (125/82/16)   142 
+T127-1/B (127/89/16)   144 
+16 
+19,5 
+24 
+M10 
+GUIDE CLIPS 
+SS3 
+M12 
+ALLOWED GUIDE 
+M16 
+M14 
+SS4 
+SS2 
+SS1 
+PRODUCT CODES:
+CODE 
+D0007I000PID 
+D0007I000PII 
+DESCRIPTION 
+Drive support BSMP-750-I - RIGHT hand. 
+Drive support BSMP-750-I - LEFT hand. 
+Ed. 01
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+a
+b
+c
+Pág. 7 / 7FICHA TÉCNICA
+BANCADA SIN CUARTO DE MÁQUINAS PÓRTICO - BSMP-750-PI
+(Es responsabilidad del cliente comprobar que los parámetros facilitados en el pedido no impiden
+  el correcto montaje de la máquina)
+   EMESA no se hace responsable de cambios sobre estas dimensiones por parte del fabricante.
+Pg. 7 / 7TECHNICAL SHEET
+MRL DRIVE SUPPORT - BSMP-750-PI
+ (It is the responsibility of the customer to check that the parameters provided in the order
+  do not prevent the correct assembly of the traction machine)
+   EMESA do not response of any dimensional changes made by drive manufacturers.
+Ed. 01
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+DM = M + 3
+
+```

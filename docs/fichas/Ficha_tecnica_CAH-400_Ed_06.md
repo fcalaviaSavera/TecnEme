@@ -1,0 +1,94 @@
+# Ficha tecnica CAH-400 Ed 06
+
+## Datos de la ficha
+
+- **Referencia:** CAH-400
+- **Familia:** CAH
+- **Edición:** 06
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica CAH-400 Ed 06.pdf`
+
+## Extracto técnico
+
+```
+Pág. 1/2
+CABEZAL HIDRÁULICO CAH-400 Ed. 06 
+FICHA TÉCNICA
+Elevator  System Solutions
+Savera 
+EMESA
+FR-7 054-01 
+SOPORTE ROZADERA 
+CABEZAL 
+GUIADOR CAH
+TRAVESAÑO SUPERIOR
+CABEZAL 
+ESPADIN 
+FIN DE CARRERA 
+POLEA Ø400x4x10 
+CTO. APOYO CILINDRO
+REFUERZO PLACA 
+LATERAL 
+EJE CABEZAL 
+FIJACION PLACA 
+LATERAL A EJE CABEZAL 
+CARENADO CABEZAL 
+ENGRASADOR (OPCIONAL)
+PLACA LATERAL 
+CABEZAL 
+Pág. 2/2
+CABEZAL HIDRÁULICO CAH-400 Ed. 06 
+FICHA TÉCNICA
+Elevator  System Solutions
+Savera 
+EMESA
+FR-7 054-01 
+A = 80,100 ó 120 
+20 20 
+416 
+170 
+155 
+103 
+155 
+A
+505 112 
+617 
+O 40 0
+312 215 
+Peso aprox. : 40 Kg (± 3 Kg) 
+O Polea 
+TIRO
+EG 
+673 
+70 
+TIROS ADMITIDOS: 
+TIRO 
+EG 
+700 
+750 
+800 
+850 
+900 
+950 
+1000 
+1050 
+1100 
+1150 
+1200 
+1250 
+1300 
+650 
+700 
+750 
+550 
+600 
+94 
+FIJACIÓN CABEZAL A PISTÓN
+O
+32 
+ENGRASADOR
+32 
+144 
+
+```

@@ -1,0 +1,782 @@
+# Ficha tecnica BL BAG-E Ed. 14
+
+## Datos de la ficha
+
+- **Referencia:** BAG-E
+- **Familia:** BAG
+- **Edición:** 14
+- **Estado:** No distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\Fichas NO distribuidas\Ficha tecnica BL BAG-E Ed. 14.pdf`
+
+## Extracto técnico
+
+```
+ BASE ARRANQUE GUÍAS BAG- E, BAG-E-2500, BAG-E-(2:1), BAG-E-GI, BAG-E-UF-GI, BAG-E-UF-400 
+FICHA TÉCNICA Pág. 1 / 8
+SOPORTE 
+GUIAS BAG-E 
+BASE ARRANQUE 
+GUIAS BAG-E 
+SOPORTE 
+GUÍAS BAG-E 
+BASE ARRANQUE 
+GUÍAS BAG-E 
+BASE ARRANQUE 
+GUIAS BAG-E-UF-GI 
+BRIDAS 
+ELÁSTICAS 
+BRIDAS 
+ELÁSTICAS 
+BRIDAS 
+ELÁSTICAS 
+SOPORTE 
+GUIAS BAG-E 
+SOPORTE GUIAS 
+BAG-E 
+SOPORTE SILENTBLOCK PS 
+BAG-E-UF-400 
+BRIDAS ELÁSTICAS 
+SOPORTE TENSOR 
+BAG-E-UF-400 
+ANGULAR SOPORTE TENSOR 
+BAG-E-UF-400 
+BASE ARRANQUE GUIAS 
+BAG-E-UF-400 
+TACO SILENTBLOCK 
+ FOOTPLATE BASE BAG- E, BAG-E-2500,  BAG-E-(2:1), BAG-E-GI, BAG-E-UF-GI, BAG-E-UF-400 
+TECHNICAL SHEET Pg. 1 / 8
+GUIDE SUPPORT 
+BAG-E 
+FOOTPLATE 
+BASE BAG-E 
+GUIDE SUPPORT 
+BAG-E 
+FOOTPLATE 
+BASE BAG-E 
+FOOTPLATE 
+BASE BAG-E 
+SLIDING 
+CLIPS 
+SLIDING 
+CLIPS 
+SLIDING 
+CLIPS 
+GUIDE SUPPORT 
+BAG-E 
+GUIDE SUPPORT 
+BAG-E 
+SLIDING CLIPS 
+OSG TENSIONER SUPPORT 
+BAG-E-UF-400 
+OSG TENSIONER ANGLE SUPPORT 
+BAG-E-UF-400 
+FOOTPLATE 
+BASE BAG-E-UF-400 
+SILENTBLOCK SUPPORT PS 
+BAG-E-UF-400 
+SILENTBLOCK 
+Ed. 14 
+EMESA
+F-10254_02 
+BAG-E 
+BAG-E-UF-GI 
+BAG-E-GI 
+BAG-E-(2:1) 
+BAG-E-UF-400 
+BAG-E-2500 
+BAG-E RANGE DBG (mm) L
+TYPE AA* M 300 ≤ EG ≤ 400 575 
+63 400 < EG ≤ 500 675 
+68 500 < EG ≤ 600 775 
+83 600 < EG ≤ 700 875 
+94 700 < EG ≤ 800 975 
+102 800 < EG ≤ 900 1075 
+106 900 < EG ≤ 1000 1175 
+106 1000 < EG ≤ 1100 1275 
+111 1100 < EG ≤ 1200 1375 
+161 1200 < EG ≤ 1300 1475 
+120 1300 < EG ≤ 1400 1575 
+129 1400 < EG ≤ 1500 1675 
+130 1500 < EG ≤ 1600 1775 
+154 1600 < EG ≤ 1700 1875 
+165 1700 < EG ≤ 1800 1975 
+167 1800 < EG ≤ 1900 2075 
+1900 < EG ≤ 2000 2175 
+INCLUDED: 2000 < EG ≤ 2100 2275 
+1 Footplate base acording with DBG 2100 < EG ≤ 2200 2375 
+2 Guide rail support. 2200 < EG ≤ 2300 2475 
+1 Hardware Bag nºXX (Depended on guide) 2300 < EG ≤ 2400 2575 
+2400 < EG ≤ 2500 2675 
+2500 < EG ≤ 2600 2775 
+2600 < EG ≤ 2700 2875 
+2700 < EG ≤ 2800 2975 
+2800 < EG ≤ 2900 3075 
+2900 < EG ≤ 3000 3175 
+T80-80-9/A (80/80/9) 
+SL4 
+Short M14 
+T89/A-B (89/62/16) 
+T90/A-B (90/75/16) 
+T114/B (114/89/16) 
+T125/B (125/82/16) 
+T127-1/B (127/89/16) 
+T70/A (70/65/9) 
+SL2 M10 T78/B (78/56/10) 
+T82/A-B (82/68/9) 
+T70-70-9/A (70/70/9) SL3 
+Short M12 T75/A-B (75/62/10) T125-L1/A (125/68/9) 
+SLIDING CLIPS 
+GUIDE (a/b/c) 
+T45/A (45/45/5) 
+SL1 M8 T50/A (50/50/5) 
+T65/A (65/54/8) 
+ BASE ARRANQUE GUÍAS BAG- E, BAG-E-2500, BAG-E-(2:1), BAG-E-GI, BAG-E-UF-GI, BAG-E-UF-400 
+FICHA TÉCNICA Pág. 2 / 8
+EG 
+SOPORTE GUÍAS 
+BAG-E RANGE DBG (mm) L
+TYPE AA* M 300 ≤ EG ≤ 400 575 
+63 400 < EG ≤ 500 675 
+68 500 < EG ≤ 600 775 
+83 600 < EG ≤ 700 875 
+94 700 < EG ≤ 800 975 
+102 800 < EG ≤ 900 1075 
+106 900 < EG ≤ 1000 1175 
+106 1000 < EG ≤ 1100 1275 
+111 1100 < EG ≤ 1200 1375 
+161 1200 < EG ≤ 1300 1475 
+120 1300 < EG ≤ 1400 1575 
+129 1400 < EG ≤ 1500 1675 
+130 1500 < EG ≤ 1600 1775 
+154 1600 < EG ≤ 1700 1875 
+165 1700 < EG ≤ 1800 1975 
+167 1800 < EG ≤ 1900 2075 
+1900 < EG ≤ 2000 2175 
+INCLUDED: 2000 < EG ≤ 2100 2275 
+1 Footplate base acording with DBG 2100 < EG ≤ 2200 2375 
+2 Guide rail support. 2200 < EG ≤ 2300 2475 
+1 Hardware Bag nºXX (Depended on guide) 2300 < EG ≤ 2400 2575 
+2400 < EG ≤ 2500 2675 
+2500 < EG ≤ 2600 2775 
+2600 < EG ≤ 2700 2875 
+2700 < EG ≤ 2800 2975 
+2800 < EG ≤ 2900 3075 
+2900 < EG ≤ 3000 3175 
+T80-80-9/A (80/80/9) 
+SL4 
+Short M14 
+T89/A-B (89/62/16) 
+T90/A-B (90/75/16) 
+T114/B (114/89/16) 
+T125/B (125/82/16) 
+T127-1/B (127/89/16) 
+T70/A (70/65/9) 
+SL2 M10 T78/B (78/56/10) 
+T82/A-B (82/68/9) 
+T70-70-9/A (70/70/9) SL3 
+Short M12 T75/A-B (75/62/10) T125-L1/A (125/68/9) 
+SLIDING CLIPS 
+GUIDE (a/b/c) 
+T45/A (45/45/5) 
+SL1 M8 T50/A (50/50/5) 
+T65/A (65/54/8) 
+ FOOTPLATE BASE BAG- E, BAG-E-2500,  BAG-E-(2:1), BAG-E-GI, BAG-E-UF-GI, BAG-E-UF-400 
+TECHNICAL SHEET Pg. 2 / 8
+GUIDE SUPPORT 
+DBG 
+Ed. 14 
+EMESA
+F-10254_02 
+BAG-E 
+153 L
+54 
+131 
+AA + 45 
+96 
+AA 
+AA + 45 
+O M
+ BASE ARRANQUE GUÍAS BAG- E, BAG-E-2500, BAG-E-(2:1), BAG-E-GI, BAG-E-UF-GI, BAG-E-UF-400 
+FICHA TÉCNICA Pág. 3 / 8
+TIPO A 
+BAG-E - VERSIÓN RECORTADA 
+TIPO A 
+TIPO B 
+* Recomendada para amortiguador hidráulico en foso 
+* Recomendada para pedestal abatible PSP-10000-R 
+D < [EG/2 - 125] 
+ FOOTPLATE BASE BAG- E, BAG-E-2500,  BAG-E-(2:1), BAG-E-GI, BAG-E-UF-GI, BAG-E-UF-400 
+TECHNICAL SHEET Pg. 3 / 8
+BAG-E TRIMED VERSION 
+TYPE A 
+TYPE B 
+D < [DBG/2 - 125] 
+* For hidraulic buffer on pit usage 
+* For foldable bufferstand PSP-10000_R usage 
+Ed. 14 
+EMESA
+F-10254_02 
+BAG-E 
+295 
+210 
+100 
+330 
+D D
+250 
+O
+18 
+ BASE ARRANQUE GUÍAS BAG- E, BAG-E-2500, BAG-E-(2:1), BAG-E-GI, BAG-E-UF-GI, BAG-E-UF-400 
+FICHA TÉCNICA Pág. 4 / 8
+EG 
+BAG-E-2500 
+TIPO AA* M
+94 
+102 
+106 
+106 
+111 
+161 
+120 
+129 
+130 
+154 
+165 
+167 
+SL5 167 M16 
+INCLUYE 
+1 Base arranque guías en función de la EG 
+2 Soporte guías 
+1 Bolsa de tornillería nºXX (Según guía) 
+T125-L1/A (125/68/9) 
+T80-80-9/A (80/80/9) 
+T90/A-B (90/75/16) SL4 
+Short 
+T70-70-9/A (70/70/9) 
+T75/A-B (75/62/10) 
+T127-1/B (127/89/16) 
+T127-1/B (127/89/16) 
+SL2 
+M12 
+M14 
+SL3 
+Short 
+T78/B (78/56/10) 
+T82/A-B (82/68/9) 
+M10 
+BRIDAS  (ELASTICAS) 
+T114/B (114/89/16) 
+T125/B (125/82/16) 
+T89/A-B (89/62/16) 
+GUIA (a/b/c) 
+T70/A (70/65/9) 
+Unión para EG>2870 
+MÍN. MÁX. 
+700 3000 EG+200 
+LRANGO EG (mm) 
+BAG-E-2500 
+TYPE AA* M
+94 
+102 
+106 
+106 
+111 
+161 
+120 
+129 
+130 
+154 
+165 
+167 
+SL5 167 M16 
+INCLUDED: 
+1 Footplate base acording with DBG 
+1 Car guide rail support. 
+2 Hardware Bag nºXX (Depended on guide) 
+T125/B (125/82/16) 
+T127-1/B (127/89/16) 
+T127-1/B (127/89/16) 
+T70-70-9/A (70/70/9) 
+GUIDE (a/b/c) 
+T70/A (70/65/9) 
+T80-80-9/A (80/80/9) 
+SL4 
+Short M14 
+T89/A-B (89/62/16) 
+T90/A-B (90/75/16) 
+T114/B (114/89/16) 
+SL3 
+Short M12 T75/A-B (75/62/10) T125-L1/A (125/68/9) 
+SL2 M10 T78/B (78/56/10) 
+T82/A-B (82/68/9) 
+SLIDING CLIPS 
+ FOOTPLATE BASE BAG- E, BAG-E-2500,  BAG-E-(2:1), BAG-E-GI, BAG-E-UF-GI, BAG-E-UF-400 
+TECHNICAL SHEET Pg. 4 / 8
+DBG 
+Joint only if EG>2870 
+MÍN. MÁX. 
+700 3000 EG+200 
+RANGE DBG (mm) L
+Ed. 14 
+EMESA
+F-10254_02 
+BAG-E-2500 
+131 
+54 
+L
+96 
+AA + 45 
+AA + 45 
+AA 
+O M+3 
+O M+1 
+177 
+ BASE ARRANQUE GUÍAS BAG- E, BAG-E-2500, BAG-E-(2:1), BAG-E-GI, BAG-E-UF-GI, BAG-E-UF-400 
+FICHA TÉCNICA Pág. 5 / 8
+EG 
+BAG-E (2:1) RANGO EG (mm) L
+TIPO AA* M Y (mm) 300 ≤ EG ≤ 400 575 
+63 43 400 < EG ≤ 500 675 
+68 40 500 < EG ≤ 600 775 
+83 33 600 < EG ≤ 700 875 
+94 30 700 < EG ≤ 800 975 
+102 28 800 < EG ≤ 900 1075 
+106 21 900 < EG ≤ 1000 1175 
+1000 < EG ≤ 1100 1275 
+Y: Descentramiento permitido entre el eje de la guía de contrapeso y eje de BAG. 1100 < EG ≤ 1200 1375 
+1200 < EG ≤ 1300 1475 
+BAG-E-(2:1) 1300 < EG ≤ 1400 1575 
+TIPO AA* M X (mm) 1400 < EG ≤ 1500 1675 
+94 30 1500 < EG ≤ 1600 1775 
+102 28 
+106 21 
+106 30 INCLUYE 
+111 28 1 Base arranque guías en función de la EG. 
+120 25 2 Soportes guías contrapeso. 
+129 21 2 Soportes guías cabina. 
+130 20 2 Bolsa de tornillería nºXX (Según guía) 
+X: Descentramiento permitido entre el eje de la guía de cabina y eje de BAG. 
+SL3 
+Short M12 T75/A-B (75/62/10) 
+SL4 
+Short M14 T90/A-B (90/75/16) 
+T70-70-9/A (70/70/9) 
+T80-80-9/A (80/80/9) 
+T89/A-B (89/62/16) 
+GUIA (a/b/c) 
+T70/A (70/65/9) 
+SL2 M10 T78/B (78/56/10) 
+T82/A-B (82/68/9) 
+T70/A (70/65/9) 
+SL2 M10 T78/B (78/56/10) 
+T82/A-B (82/68/9) 
+BRIDAS  (ELASTICAS) 
+BRIDAS  (ELASTICAS) 
+GUIA (a/b/c) 
+T45/A (45/45/5) 
+SL1 M8 T50/A (50/50/5) 
+T65/A (65/54/8) 
+SOPORTE GUÍAS DE CONTRAPESO SOPORTE GUÍAS DE CABINA 
+ FOOTPLATE BASE BAG- E, BAG-E-2500,  BAG-E-(2:1), BAG-E-GI, BAG-E-UF-GI, BAG-E-UF-400 
+TECHNICAL SHEET Pg. 5 / 8
+COUNTER WEIGHT GUIDE SUPPORT CAR GUIDE SUPPORT 
+DBG 
+BAG-E (2:1) RANGE DBG (mm) L
+TYPE AA* M Y (mm) 300 ≤ EG ≤ 400 575 
+63 43 400 < EG ≤ 500 675 
+68 40 500 < EG ≤ 600 775 
+83 33 600 < EG ≤ 700 875 
+94 30 700 < EG ≤ 800 975 
+102 28 800 < EG ≤ 900 1075 
+106 21 900 < EG ≤ 1000 1175 
+1000 < EG ≤ 1100 1275 
+Y: Allowed offset between counter weight guide axis and footplate base support axis. 1100 < EG ≤ 1200 1375 
+1200 < EG ≤ 1300 1475 
+BAG-E-(2:1) 1300 < EG ≤ 1400 1575 
+TYPE AA* M X (mm) 1400 < EG ≤ 1500 1675 
+94 30 1500 < EG ≤ 1600 1775 
+102 28 
+106 21 
+106 30 INCLUDED: 
+111 28 1 Footplate base acording with DBG 
+T80-80-9/A (80/80/9) 120 25 2 Counter weight guide rail support.. 
+T89/A-B (89/62/16) 129 21 2 Car guide rail support. 
+130 20 2 Hardware Bag nºXX (Depended on guide) 
+X: Allowed offset between car guide axis and footplate base support axis. 
+GUIDE (a/b/c) 
+T75/A-B (75/62/10) 
+SL4 
+Short M14 T90/A-B (90/75/16) 
+SLIDING CLIPS 
+T78/B (78/56/10) 
+T82/A-B (82/68/9) 
+T70-70-9/A (70/70/9) SL3 
+Short M12 
+T70/A (70/65/9) 
+SL2 M10 
+T78/B (78/56/10) 
+T82/A-B (82/68/9) 
+T50/A (50/50/5) 
+T65/A (65/54/8) 
+T70/A (70/65/9) 
+SL2 M10 
+SLIDING CLIPS 
+GUIDE (a/b/c) 
+T45/A (45/45/5) 
+SL1 M8 
+Ed. 14 
+EMESA
+F-10254_02 
+BAG-E-(2:1) 
+54 
+163 
+L
+225 
+153 
+X
+Y
+X
+SL1 & SL2 
+SL3 SL3 
+SL4 
+SL1 & SL2 
+92 66 
+92 
+ BASE ARRANQUE GUÍAS BAG- E, BAG-E-2500, BAG-E-(2:1), BAG-E-GI, BAG-E-UF-GI, BAG-E-UF-400 
+FICHA TÉCNICA Pág. 6 / 8
+EG APOYO PUFFER 
+BAJO LARGUEROS 
+APOYO PUFFER 
+EN TRAVESAÑO 
+- CON APOYO PUFFER BAJO LARGUEROS 
+ LOS PUFFER IRÁN DENTRO DE LA BAG. 
+SOPORTE GUÍAS DE CONTRAPESO SOPORTE GUÍAS DE CABINA 
+BAG-E-GI 
+TIPO AA* M Y (mm) 
+63 43 
+68 40 500 ≤ EG ≤ 600 - 675 
+83 33 600 < EG ≤ 700 EG=500 775 
+94 30 700 < EG ≤ 800 500 < EG ≤ 600 875 
+102 28 800 < EG ≤ 900 600< EG ≤ 700 975 
+106 21 900 < EG ≤ 1000 700 < EG ≤ 800 1075 
+1000 < EG ≤ 1100 800 < EG ≤ 900 1175 
+Y: Descentramiento permitido entre el eje de la guía de contrapeso y eje de BAG. 1100 < EG ≤ 1200 900 < EG ≤ 1000 1275 
+1200 < EG ≤ 1300 1000 < EG ≤ 1100 1375 
+BAG-E-GI - 1100 < EG ≤ 1200 1475 
+TIPO AA* M X (mm) - 1200 < EG ≤ 1300 1575 
+94 30 
+102 28 
+106 21 
+106 30 INCLUYE 
+111 28 1 Base arranque guías en función de la EG. 
+120 25 2 Soportes guías contrapeso. 
+129 21 2 Soportes guías cabina. 
+130 20 2 Bolsa de tornillería nºXX (Según guía) 
+X : Descentramiento permitido entre el eje de la guía de cabina y eje de BAG. 
+T89/A-B (89/62/16) 
+T80-80-9/A (80/80/9) 
+T78/B (78/56/10) 
+SL2 
+SL3 
+Short 
+T70/A (70/65/9) 
+T78/B (78/56/10) 
+GUIA (a/b/c) 
+BRIDAS  (ELASTICAS) 
+M10 
+RANGO EG (mm) 
+CON APOYO BL 
+SL1 
+SL2 
+T70-70-9/A (70/70/9) 
+T82/A-B (82/68/9) 
+M12 
+T82/A-B (82/68/9) 
+T70/A (70/65/9) 
+M10 
+BRIDAS  (ELASTICAS) 
+T90/A-B (90/75/16) 
+RANGO EG (mm) 
+SL4 
+Short M14 
+T75/A-B (75/62/10) 
+M8 T50/A (50/50/5) 
+T65/A (65/54/8) 
+LGUIA (a/b/c) T45/A (45/45/5) 
+ FOOTPLATE BASE BAG- E, BAG-E-2500,  BAG-E-(2:1), BAG-E-GI, BAG-E-UF-GI, BAG-E-UF-400 
+TECHNICAL SHEET Pg. 6 / 8
+COUNTER WEIGHT GUIDE SUPPORT CAR GUIDE SUPPORT 
+UNDER UPRIGHT 
+STRIKE 
+UNDER CROSSBEAM 
+STRIKE 
+- IN CASE OF UNDER UPRIGHT STRIKE 
+  BUFFERS ARE IN THE BAG.
+DBG 
+BAG-E-GI 
+TYPE AA* M Y (mm) 
+63 43 
+68 40 
+83 33 500 ≤ EG ≤ 600 - 675 
+94 30 600 < EG ≤ 700 EG=500 775 
+102 28 700 < EG ≤ 800 500 < EG ≤ 600 875 
+106 21 800 < EG ≤ 900 600< EG ≤ 700 975 
+900 < EG ≤ 1000 700 < EG ≤ 800 1075 
+Y: Allowed offset between counter weight guide axis and footplate base support axis. 1000 < EG ≤ 1100 800 < EG ≤ 900 1175 
+1100 < EG ≤ 1200 900 < EG ≤ 1000 1275 
+BAG-E-GI 1200 < EG ≤ 1300 1000 < EG ≤ 1100 1375 
+TYPE AA* M X (mm) - 1100 < EG ≤ 1200 1475 
+94 30 - 1200 < EG ≤ 1300 1575 
+102 28 
+106 21 
+106 30 INCLUDED: 
+111 28 1 Footplate base acording with DBG 
+120 25 2 Counter weight guide rail support.. 
+129 21 2 Car guide rail support. 
+130 20 2 Hardware Bag nºXX (Depended on guide) 
+X: Allowed offset between car guide axis and footplate base support axis. 
+GUIDE (a/b/c) 
+T45/A (45/45/5) 
+T50/A (50/50/5) 
+T65/A (65/54/8) 
+T70/A (70/65/9) 
+T78/B (78/56/10) 
+T82/A-B (82/68/9) 
+SL1 
+SL2 
+SLIDING CLIPS 
+M8 
+M10 
+SLIDING CLIPS 
+SL2 M10 
+SL3 
+Short M12 
+L
+T70-70-9/A (70/70/9) 
+T75/A-B (75/62/10) 
+T80-80-9/A (80/80/9) 
+GUIDE (a/b/c) 
+T70/A (70/65/9) 
+T78/B (78/56/10) 
+T82/A-B (82/68/9) 
+RANGE DBG (mm) 
+RANGE DBG (mm) 
+ UNDER UPRIGHT 
+STRIKE 
+SL4 
+Short M14 T89/A-B (89/62/16) T90/A-B (90/75/16) 
+Ed. 14 
+EMESA
+F-10254_02 
+BAG-E-GI 
+L
+54 
+163 
+153 
+225 
+Y
+X
+X
+SL1 & SL2 
+SL3 SL3 SL4 
+SL1 & SL2 
+92 
+ BASE ARRANQUE GUÍAS BAG- E, BAG-E-2500, BAG-E-(2:1), BAG-E-GI, BAG-E-UF-GI, BAG-E-UF-400 
+FICHA TÉCNICA Pág. 7 / 8
+EG 
+SOPORTE GUÍAS DE CONTRAPESO SOPORTE GUÍAS DE CABINA 
+BAG-E-UF-GI 
+TIPO AA* M Y (mm) RANGO EG (mm) L
+63 43 500 ≤ EG < 600 675 
+68 40 600 ≤ EG < 700 775 
+83 33 700 ≤ EG < 800 875 
+94 30 800 ≤ EG < 900 975 
+102 28 900 ≤ EG < 1000 1075 
+106 21 1000 ≤ EG < 1100 1175 
+Y: Descentramiento permitido entre el eje de la guía de contrapeso y eje de BAG. 
+BAG-E-UF-GI 
+TIPO AA* M X (mm) 
+94 30 
+102 28 
+106 21 
+106 30 INCLUYE 
+111 28 1 Base arranque guías en función de la EG. 
+T80-80-9/A (80/80/9) 120 25 2 Soportes guías contrapeso. 
+T89/A-B (89/62/16) 129 21 2 Soportes guías cabina. 
+130 20 2 Bolsa de tornillería nºXX (Según guía) 
+X: Descentramiento permitido entre el eje de la guía de cabina y eje de BAG. 
+T70-70-9/A (70/70/9) M12 T75/A-B (75/62/10) 
+SL4 
+Short M14 T90/A-B (90/75/16) 
+GUIA (a/b/c) 
+T70/A (70/65/9) 
+SL2 M10 T78/B (78/56/10) 
+T50/A (50/50/5) 
+T65/A (65/54/8) 
+T82/A-B (82/68/9) 
+T70/A (70/65/9) 
+SL2 M10 T78/B (78/56/10) 
+T82/A-B (82/68/9) 
+BRIDAS  (ELASTICAS) 
+SL1 
+BRIDAS  (ELASTICAS) 
+GUIA (a/b/c) 
+T45/A (45/45/5) 
+SL3 
+Short 
+M8 
+ FOOTPLATE BASE BAG- E, BAG-E-2500,  BAG-E-(2:1), BAG-E-GI, BAG-E-UF-GI, BAG-E-UF-400 
+TECHNICAL SHEET Pg. 7 / 8
+COUNTER WEIGHT GUIDE SUPPORT CAR GUIDE SUPPORT 
+DBG 
+BAG-E-UF-GI 
+TYPE AA* M Y (mm) RANGE DBG (mm) L
+63 43 500 ≤ EG < 600 675 
+68 40 600 ≤ EG < 700 775 
+83 33 700 ≤ EG < 800 875 
+94 30 800 ≤ EG < 900 975 
+102 28 900 ≤ EG < 1000 1075 
+106 21 1000 ≤ EG < 1100 1175 
+Y: Allowed offset between counter weight guide axis and footplate base support axis. 
+BAG-E-UF-GI 
+TYPE AA* M X (mm) 
+94 30 
+102 28 
+106 21 
+106 30 INCLUDED: 
+111 28 1 Footplate base acording with DBG 
+T80-80-9/A (80/80/9) 120 25 2 Counter weight guide rail support.. 
+T89/A-B (89/62/16) 129 21 2 Car guide rail support. 
+130 20 2 Hardware Bag nºXX (Depended on guide) 
+X: Allowed offset between car guide axis and footplate base support axis. 
+T82/A-B (82/68/9) 
+T70-70-9/A (70/70/9) SL3 
+Short M12 T75/A-B (75/62/10) 
+M14 
+T90/A-B (90/75/16) 
+SLIDING CLIPS 
+GUIDE (a/b/c) 
+T70/A (70/65/9) 
+SL2 M10 
+SL2 M10 T78/B (78/56/10) 
+T82/A-B (82/68/9) 
+T78/B (78/56/10) 
+T65/A (65/54/8) 
+T70/A (70/65/9) 
+SL4 
+Short 
+SLIDING CLIPS 
+GUIDE (a/b/c) 
+T45/A (45/45/5) 
+SL1 M8 T50/A (50/50/5) 
+Ed. 14 
+EMESA
+F-10254_02 
+BAG-E-UF-GI 
+153 
+225 
+54 
+163 
+min 53 
+125 
+Y
+X
+X
+SL1 & SL2 
+SL3 
+SL3 
+SL4 
+SL1 & SL2 
+92 
+ BASE ARRANQUE GUÍAS BAG- E, BAG-E-2500, BAG-E-(2:1), BAG-E-GI, BAG-E-UF-GI, BAG-E-UF-400 
+FICHA TÉCNICA Pág. 8 / 8
+EG (CAB) 
+TIPO AA* M
+63 
+68 
+83 RANGO EG_CAB (mm) L
+650 ≤ EG ≤ 1100 EG_CAB+225 
+X: Descentramiento entre eje de guía de cabina y eje de guía de cpeso. 
+Rango permitido X: 40-80 mm 
+INCLUYE 
+1 Base arranque guías en función de la EG. 
+TIPO AA* M 2 Soportes guías contrapeso. 
+94 2 Soportes guías cabina. 
+106 1 Cto. de soportes para el tensor limitador 
+SL4 Short 130 M14 1 Soporte silentblock PS 
+4 Tacos silentblock 
+Tornillería,bridas y 4 tacos a suelo (M10) 
+BRIDAS  (ELASTICAS) 
+GUIA CC (a/b/c) 
+T45/A (45/45/5), OMEGA 
+SL1 M8 T50/A (50/50/5) 
+T65/A (65/54/8) 
+BRIDAS  (ELASTICAS) 
+GUIA CAB (a/b/c) 
+T70/A (70/65/9) 
+T82/A-B (82/68/9) SL2 M10 
+T90/A-B (90/75/16) 
+SOPORTE GUÍAS DE CONTRAPESO SOPORTE GUÍAS DE CABINA 
+EG (CC) 
+POSICION TENSOR LIMITADOR 
+(CEM-UF-400) 
+POSICION TENSOR LIMITADOR 
+(CEM-UF-525) 
+ FOOTPLATE BASE BAG- E, BAG-E-2500,  BAG-E-(2:1), BAG-E-GI, BAG-E-UF-GI, BAG-E-UF-400 
+TECHNICAL SHEET Pg. 8 / 8
+TYPE AA* M
+63 
+68 
+83 RANGE DBG_CAR (mm) L
+650 ≤ EG ≤ 1100 DBG_CAR+225 
+X : Offset between counter weight guide axis and car frame guide axis 
+Allowed range for X: 40-80 mm 
+INCLUDED: 
+1 Footplate base acording with DBG 
+TYPE AA* M 2 Counter-weight guide rail support 
+94 2 Car guide rail support 
+106 1 OSG tensioner support set 
+SL4 Short 130 M14 1 Silentblock support PS 
+4 Silentblocks 
+Hardware, sliding clips and 4 anchor bolts (M10) 
+T90/A-B (90/75/16) 
+SLIDING CLIPS 
+GUIDE CW (a/b/c) 
+T45/A (45/45/5), OMEGA 
+SL1 M8 T50/A (50/50/5) 
+T65/A (65/54/8) 
+T82/A-B (82/68/9) 
+SLIDING CLIPS 
+GUIDE CAR (a/b/c) 
+T70/A (70/65/9) SL2 M10 
+COUNTER WEIGHT GUIDE SUPPORT CAR GUIDE SUPPORT 
+DBG (CAR) 
+DBG (CW) 
+OSG TENSIONER PLACEMENT 
+(CEM-UF-400) 
+OSG TENSIONER PLACEMENT 
+(CEM-UF-525) 
+Ed. 14 
+EMESA
+F-10254_02 
+BAG-E-UF-400 
+L
+229 
+187 
+SL1 SL2 
+104 66 
+55 110 55 110 
+X
+SL4 
+53 
+211 
+120 
+187 
+105 
+170 
+212 
+21 
+55 151 
+103 (min.) 147 (min.) 112,5 112,5 
+
+```

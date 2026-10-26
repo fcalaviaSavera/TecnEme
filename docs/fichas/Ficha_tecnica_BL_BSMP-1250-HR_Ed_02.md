@@ -1,0 +1,596 @@
+# Ficha tecnica BL BSMP-1250-HR Ed 02
+
+## Datos de la ficha
+
+- **Referencia:** No identificada
+- **Familia:** OTROS
+- **Edición:** 02
+- **Estado:** No distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\Fichas NO distribuidas\Productos Raloe\Ficha tecnica BL BSMP-1250-HR Ed 02.pdf`
+
+## Extracto técnico
+
+```
+Pág. 1 / 6FICHA TÉCNICA
+BANCADA SIN CUARTO DE MÁQUINAS PÓRTICO - BSMP-1250-HR
+TERMINALES DE SUSPENSIÓN 
+PLACA BASE MÁQUINA 
+BSMP-1250-HR 
+FIJACIÓN GUÍA 
+CONTRAPESO 
+BANCADA 
+BSMP-1250-HR 
+CALZAS TORNILLERÍA PARA GUÍA DE CABINA 
+BRIDAS FORJADAS PARA 
+GUÍA CONTRAPESO 
+TORNILLERÍA PARA 
+GUÍA CONTRAPESO 
+TORNILLOS SUJECCIÓN 
+MÁQUINA 
+SISTEMA EMBRIDADO 
+GUÍA CABINA 
+TORNILLOS SUJECCIÓN 
+AISLANTES 
+FIJACIÓN EMPALME GUÍA CABINA 
+AISLANTES 
+(OPCIONAL) 
+Pg. 1 / 6TECHNICAL SHEET
+MRL DRIVE SUPPORT - BSMP-1250-HR
+ROPE ENDINGS 
+MACHINE PLATE 
+BSMP-1250-HR 
+COUNTERWIEGHT GUIDE FIX 
+DRIVE SUPPORT 
+BSMP-1250-HR 
+WEDGES FIX BOLTS FOR CAR GUIDE 
+FORGED CLIPS 
+FOR COUNTERWEIGHT GUIDE 
+COUNTERWEIGHT GUIDE FIX BOLTS 
+MACHINE FIX BOLTS 
+CAR GUIDE 
+CLIP SYSTEM 
+ISOLATION FIX BOLTS 
+JOIN CAR GUIDE WEDGE 
+ISOLATION 
+(OPTIONAL) 
+Ed. 02
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+Pág. 2 / 6FICHA TÉCNICA
+BANCADA SIN CUARTO DE MÁQUINAS PÓRTICO - BSMP-1250-HR
+VISTA ISOMÉTRICA 
+MANO DERECHA 
+VISTA ISOMÉTRICA 
+MANO IZQUIERDA 
+Pg. 2 / 6TECHNICAL SHEET
+MRL DRIVE SUPPORT - BSMP-1250-HR
+ISOMETRIC VIEW 
+RIGHT HAND 
+ISOMETRIC VIEW 
+LEFT HAND 
+Ed. 02
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+Pág. 3 / 6FICHA TÉCNICA
+BANCADA SIN CUARTO DE MÁQUINAS PÓRTICO - BSMP-1250-HR
+EGCC 
+ESQUEMA MÁQUINA
+Nota: para establecer el signo correcto de VPA 
+øD=12 si DT= 6,5 
+øD=18 si DT=8 
+DGCPPX: 
+Si AA/2+15+CB<=25+VM/2-DCCM, 
+DGCPPX=25+VM/2-DCCM 
+Si AA/2+15+CB>25+VM/2-DCCM, 
+DGCPPX=AACCSS/2+15+CB 
+AA (Ver tabla1) 
+Pg. 3 / 6TECHNICAL SHEET
+MRL DRIVE SUPPORT - BSMP-1250-HR
+MACHINE DRAFTING
+Note: to find VPA correct  sign 
+DBGCC 
+øD=12 if DT= 6,5 
+øD=18 if DT=8 
+DGCPPX: 
+If AA/2+15+CB<=25+VM/2-DCCM, 
+DGCPPX=25+VM/2-DCCM 
+If AA/2+15+CB>25+VM/2-DCCM, 
+DGCPPX=AACCSS/2+15+CB 
+AA (see table1) 
+Ed. 02
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+HCC 
+7
+HCC 
+HT 
+DPM - 60 
+VECA 
+HM 
+OD
+DPM 
+VCA 
+VPA + VPA - 
+HT HPM HM 
+VM 
+O
+DM 
+VPA 
+VECA 
+DPM 
+53 
+337,5 
+300 
+32,5 
+A
+ A 
+37,5 
+15 
+HGCA 
+HGCA 
+DGCPPX-0,5 
+DCM 
+70 
+HGCA 
+   HPF 
+ODM+3 
+12,5 
+HPM 
+Pág. 4 / 6FICHA TÉCNICA
+BANCADA SIN CUARTO DE MÁQUINAS PÓRTICO - BSMP-1250-HR
+ (Es responsabilidad del cliente comprobar que los parámetros facilitados en el pedido no impiden el correcto montaje de la máquina)
+VARIABLES DESCRIPCION MIN. MAX. Tabla 
+HM: Distancia entre taladros de máquina 120 460 2
+VM: Distancia entre taladros de máquina 190 400 2
+HPM: Dist. de centro polea a taladros máquina 70 160 
+DPM: Diámetro polea tractora. 180 320 2
+VECA: Distancia entre EGCC y la espalda de guia de c abina 110 300 
+EGCC: Entreguía contrapeso. 650 1250 
+HGCA: Descentramiento guía cabina lado izdo. 265 785 
+EGCC-HGCA: Descentramiento guía cabina lado dcho. 20 0 700 
+Dist. de punta de guía cab. a caida de cables CC. C able ø6,5 45 320 
+Dist. de punta de guía cab. a caida de cables CC. C able ø8 125 320 
+DCM: Dist. Centro de máquina a cabeza guía cabina 130 300 
+VPA: Dist. de punta de guía cab. a caida de cables -7 0 50 
+HT: Dist. de punta de guía cab. a caida de cables CA 0 300 
+DBA: Diámetro taladro aislante inferior 21 30 2
+DT: Diámetro de cables. 6,5 8 2
+CLB: Anchura trasera brida. 16 24 1
+Datos mínimos para realizar el pedido: VPA, HPM, HT, EGCC, HGCA, VECA, HPF, 
+DCM, DPM, guía cabina, guía contrapeso, modelo de máquina. 
+P+Q máx = 3000 Kg 
+Valores fuera de los rangos de esta tabla, consultar. 
+HPF: 
+Hasta 10 cables de ø6,5mm o 8 cables de ø8 mm 
+AISLANTE 
+SUPERIOR 
+TORNILLO CON TALADRO 
+PARA SUJECCIÓN MAQUINA 
+ALAMBRE PASADOR 
+ESQUEM A SUJECCIÓN MÁ QUINA
+CASQUILLO 
+INTERIOR AISLANTE 
+INFERIOR 
+ARANDELA 
+PLACA BASE 
+MÁQUINA 
+INCLUYE:
+- 1 Placa bajo máquina (según máquina).
+- Tornillería de unión máquina.
+- Bridas forjadas.
+- Calzas de guías.
+- Peines alineadores de cables.
+- Fijación empalme guía cabina
+NO INCLUYE:
+-Terminales de suspensión.
+OPCIONAL:
+- Bolsa tacos aislantes.
+Pg. 4 / 6TECHNICAL SHEET
+MRL DRIVE SUPPORT - BSMP-1250-HR
+INCLUDES:
+- 1 Machine plate (according on machine model).
+- Machine fix bolts.
+- Forged guide clips.
+- Guide wedges.
+- Ropes aligner combs.
+- Join car guide wedge
+NO INCLUDES:
+-Rope ending
+OPTIONAL:
+- Isolating buffers.
+VARIABLES DESCRIPTION MIN. MAX. Table 
+HM: Distance between machine holes. 120 460 2
+VM: Distance between machine holes. 190 400 2
+HPM: Distance from pulley axis to machine holes. 70 16 0 
+DPM: Pulley diameter. 180 320 2
+VECA: Distance from EGCC to car guide back. 110 300 
+EGCC: Distance between counterweight guides. 650 1250 
+HGCA Left car guide off-center. 265 785 
+EGCC-HGCA: Right car guide off-center. 200 700 
+Distance from car guide head to CW suspension point. Rope ø6,5 45 320 
+Distance from car guide head to CW suspension point. Rope ø8 125 320 
+DCM: Distance from drive center to car guide head. 13 0 300 
+VPA: Distance from car guide head to machine suspens ion point. -70 50 
+HT: Distance from car guide head to CA suspension po int. 0 300 
+DBA: Diameter of Lower isolating buffer hole. 21 30 2
+DT: Diameter of ropes. 6,5 8 2
+CLB: Half back clip dimension. 16 24 1
+Up to 10  ø6,5mm or 8 ø8mm ropes 
+P+Q max= 3000Kg 
+Other features out of range, please enquire. 
+Minimun values to do an order: VPA, HPM, HT, EGCC, HGCA, VECA, HPF, DCM, 
+DPM, car guide, counterweight guide, machine model.
+HPF: 
+(It is the responsibility of the customer to check that the parameters provided in the order do not prevent the correct assembly of the traction machine)
+UPPER ISOLATING 
+BUFFER 
+LOWER 
+ISOLATNG BUFFER 
+DRILLED BOLT FOR 
+MACHINE FIXING 
+FASTENER WIRE 
+MA CHINE FIXING DRAWING
+MACHINE PLATE 
+WASHER 
+INTERNAL 
+BUSHING 
+Ed. 02
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+O M 
+O DBA 
+Pág. 5 / 6FICHA TÉCNICA
+BANCADA SIN CUARTO DE MÁQUINAS PÓRTICO - BSMP-1250-HR
+Tabla 1: 
+GUIA (a/b/c) CPESO. CABINA TIPO AA M CLB 
+T45/A (45/45/5)   55 
+T50/A (50/50/5)   60 
+T65/A 65/54/9)   75 
+T70/A (70/65/9)   83 
+T78/B (78/56/10)   91 
+T82/A-B (82/68/9)   95 
+T125-L1/A (125/68/9)   138 
+T75/A-B (75/62/10)   88 
+T70-70-9/A (70/70/9)   86 
+T80-80-9/A (80/80/9)   96 
+T89/A-B (89/62/16)   105 
+T90/A-B (90/75/16)   106 
+T114/B (114/89/16)   131 
+T125/B (125/82/16)   142 
+T127-1/B (127/89/16)   144 
+M16 
+M10 
+SS2 
+SS4 
+SS1 
+GUIA PERMITIDA 
+SS3 
+BRIDAS 
+16 
+19,5 
+24 M14 
+M12 
+CÓDIGO DE PRODUCTO:
+CÓDIGO 
+D00014000H0D 
+D00014000H0I 
+DESCRIPCIÓN 
+Bancada BSMP-1250-HR- Mano DERECHA 
+Bancada BSMP-1250-HR- Mano IZQUIERDA 
+Pg. 5 / 6TECHNICAL SHEET
+MRL DRIVE SUPPORT - BSMP-1250-HR
+Table 1: 
+GUIDE (a/b/c) CW CAR TYPE AA M CLB 
+T45/A (45/45/5)   55 
+T50/A (50/50/5)   60 
+T65/A 65/54/9)   75 
+T70/A (70/65/9)   83 
+T78/B (78/56/10)   91 
+T82/A-B (82/68/9)   95 
+T125-L1/A (125/68/9)   138 
+T75/A-B (75/62/10)   88 
+T70-70-9/A (70/70/9)   86 
+T80-80-9/A (80/80/9)   96 
+T89/A-B (89/62/16)   105 
+T90/A-B (90/75/16)   106 
+T114/B (114/89/16)   131 
+T125/B (125/82/16)   142 
+T127-1/B (127/89/16)   144 
+ALLOWED GUIDE 
+M16 
+M14 
+SS4 
+SS2 
+SS3 
+M12 
+16 
+19,5 
+SS1 M10 
+24 
+GUIDE CLIPS 
+PRODUCT CODES:
+CODE 
+D00014000H0D 
+D00014000H0I 
+DESCRIPTION 
+Drive support BSMP-1250-HR- RIGHT hand. 
+Drive support BSMP-1250-HR- LEFT hand. 
+Ed. 02
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+a
+b
+c
+Pág. 6 / 6FICHA TÉCNICA
+BANCADA SIN CUARTO DE MÁQUINAS PÓRTICO - BSMP-1250-HR
+Tabla 2 
+210 
+240 
+210 
+240 
+210 
+240 
+320 8
+210 
+240 
+320 8
+210 
+240 
+320 8
+ACT 120 Lateral 240 8 218 280 30 20 90 8.8 D01012710427 SI 6 D00 012710493 
+240 6,5 
+320 8
+240 6,5 
+320 8
+240 6,5 
+320 8
+ACT 320 Lateral 320 8 418 280 30 20 90 8.8 D01012710427 SI 6 D00 012710493 
+ACT 360 Lateral 320 8 458 280 30 20 90 8.8 D01012710427 SI 6 D00 012710493 
+G200 T1 Lateral 210 6,5 206 200 21 16 85 8.8 D01045710517 SI 6 D 00012710556 
+210 
+240 
+210 
+240 
+320 8
+210 
+240 
+320 8
+210 
+240 
+320 8
+240 6,5 
+320 8
+200 
+240 
+200 
+240 
+200 
+240 
+320 8
+200 
+240 
+320 8
+200 
+240 
+320 8
+200 
+240 
+320 8
+200 
+240 
+320 8
+240 6,5 
+320 8
+Emesa no se hace responsable de cambios sobre estas  dimensiones por parte del fabricante 
+Para otras máquinas, consultar. 
+30 
+6,5 
+6,5 
+Lateral 
+6,5 
+430 270 
+190 220 
+G300 T0 
+G400 T2 
+SM190.15-20 Lateral 
+ACT 200 Lateral 
+G300 T1 Lateral 
+21 200 264 
+SASSI 
+CEG 
+MINI ACT 100 187 210 6,5 
+M L
+VM DBA 
+80 
+21 14 
+14 80 
+21 
+21 14 
+D00012710556 
+6SI 
+6
+D01045710517 SI 
+D00012710556 
+Lateral 21 
+SI 
+85 8.8 D01045710517 
+90 24 8,8 D01012710416 SI 6 D00012710493 
+HM 
+RES. BOLSA 
+616 80 8,8 D01045710380 
+6
+Nº TACOS COD. BOLSA 
+TACOS SILENTBLOCK TORNILLOS (M x L) PLACA 
+BASE FABRICANTE MODELO 
+POSIC. 
+POLEA 
+MAQ. 
+DPM [ø] DT [ø] 
+8,8 D01012710584 SI 6 D00012710556 
+MINI ACT 130 Lateral 6,5 221 210 80 8,8 D01012710584 SI 6 D00 012710556 
+MINI ACT 170 Lateral 6,5 255 210 21 14 80 8,8 D01012710584 SI 6 D00012710556 
+MINI ACT 200 Lateral 6,5 289 210 8.8 D01012710584 SI 6 D00012710556 
+MINI ACT 240 Lateral 6,5 323 210 21 14 80 8,8 D01012710584 SI 6 D00012710556 
+ACT 160 Lateral 258 280 30 20 90 8.8 D01012710427 SI 6 D000127 10493 
+298 280 30 20 90 8.8 D01012710427 SI 6 D00012710493 
+ACT 240 Lateral 338 280 30 20 90 8.8 D01012710427 SI 6 D000127 10493 
+380 200 
+Lateral 
+21 16 85 
+16 
+8,8 D01045710517 SI D00012710556 
+G300T2 Lateral 6,5 380 200 21 16 85 8,8 D00012710556 
+G400 T1 Lateral 6,5 270 270 30 24 90 8.8 D01012710416 SI 6 D00012710493 
+ZIEHL ABEGG 
+6,5 
+SM190.23-20 Lateral 190 220 21 16 80 8.8 D01045710380 SI 6 D00 012710556 
+SM200.15D-20 Lateral 6,5 190 220 21 16 80 8.8 D01045710380 SI 6 D00012710556 
+SM200.23D-20 Lateral 6,5 190 220 21 16 80 8.8 D01045710380 SI 6 D00012710556 
+SM200.30D-20 Lateral 6,5 235 220 21 16 80 8.8 D01045710380 SI 6 D00012710556 
+SM200.40E Lateral 6,5 300 220 30 20 85 8.8 D01016710477 SI 6 D00012710493 
+SM200.45E Lateral 6,5 300 220 30 20 85 8.8 D01016710477 SI 6 D00012710493 
+SM210.60B-20 Lateral 377 270 30 24 90 8,8 D01012710416 SI 6 D0 0012710493 
+Pg. 6 / 6TECHNICAL SHEET
+MRL DRIVE SUPPORT - BSMP-1250-HR
+Table 2: 
+210 
+240 
+210 
+240 
+210 
+240 
+320 8
+210 
+240 
+320 8
+210 
+240 
+320 8
+ACT 120 Side 240 8 218 280 30 20 90 8.8 D01012710427 YES 6 D0001 2710493 
+240 6,5 
+320 8
+240 6,5 
+320 8
+240 6,5 
+320 8
+ACT 320 Side 320 8 418 280 30 20 90 8.8 D01012710427 YES 6 D0001 2710493 
+ACT 360 Side 320 8 458 280 30 20 90 8.8 D01012710427 YES 6 D0001 2710493 
+G200 T1 Side 210 6,5 206 200 21 16 85 8.8 D01045710517 YES 6 D00 012710556 
+210 
+240 
+210 
+240 
+320 8
+210 
+240 
+320 8
+210 
+240 
+320 8
+240 6,5 
+320 8
+200 
+240 
+200 
+240 
+200 
+240 
+320 8
+200 
+240 
+320 8
+200 
+240 
+320 8
+200 
+240 
+320 8
+200 
+240 
+320 8
+240 6,5 
+320 8
+Emesa is not responsible for changes on these dimen sions by the drive manufacturer 
+For other machines, please enquiry availability of machine fixing bolts. 
+YES 6
+D01045710380 YES 
+6
+6
+8,8 D01012710416 
+D01045710380 
+24 90 
+Side 6,5 264 
+SASYES 
+G300 T0 200 
+21 14 80 8,8 
+90 8.8 
+14 80 8,8 
+14 
+MANUFACTURER MODEL 
+MACHINE 
+PULLEY 
+POS. 
+DPM [ø] DT [ø] HM VM DBA 
+BOLTS (M x L) MACH. 
+PLATE 
+SILENTBLOCK BUFFER 
+M L STR. NO. BAG NO. BUFFER NO. BAG 
+CEG 
+MINI ACT 100 Side 6,5 187 210 D01012710584 YES 6 D000127105 56 
+MINI ACT 130 Side 6,5 221 210 21 14 80 8,8 D01012710584 YES 6 D 00012710556 
+MINI ACT 170 Side 6,5 255 210 21 D01012710584 YES 6 D00012710556 
+MINI ACT 200 Side 6,5 289 210 21 80 8.8 D01012710584 YES 6 D00012710556 
+MINI ACT 240 Side 6,5 323 210 21 
+6 D00012710493 
+14 80 8,8 D01012710584 YES 6
+D01012710427 
+30 20 
+D00012710556 
+ACT 160 Side 258 280 30 20 YES 
+D00012710493 
+ACT 240 Side 338 280 30 
+ACT 200 Side 298 280 
+90 8.8 D01012710427 YES 6
+90 D01012710427 YES 68.8 
+D00012710493 
+21 16 85 8.8 D01045710517 YES 6 D00012710556 
+20 
+G300 T1 Side 6,5 380 200 21 16 85 8,8 D01045710517 YES 6 D00012710556 
+G300T2 Side 6,5 380 200 21 16 85 8,8 D00012710556 
+G400 T1 Side 6,5 270 270 30 90 8.8 D01012710416 YES 6
+D01045710517 YES 6
+D00012710493 
+G400 T2 Side 430 270 30 YES 6 D00012710493 
+24 
+ZIEHL ABEGG 
+SM190.15-20 Side 6,5 190 220 
+SM210.60B-20 Side 377 270 
+21 16 80 8,8 D01045710380 YES D00012710556 
+SM190.23-20 Side 6,5 190 220 21 16 80 8.8 D00012710556 
+SM200.15D-20 Side 6,5 190 220 21 16 80 8.8 D00012710556 
+SM200.23D-20 Side 6,5 190 220 21 16 80 8.8 D01045710380 YES 6 D00012710556 
+SM200.30D-20 Side 6,5 235 220 21 16 80 8.8 D01045710380 YES 6 D00012710556 
+SM200.40E Side 6,5 300 220 30 20 85 8.8 D01016710477 YES 6 D00012710493 
+SM200.45E Side 6,5 300 220 
+90 8,8 
+30 20 85 8.8 
+30 24 D01012710416 YES 6 D00012710493 
+6 D00012710493 D01016710477 YES 
+Ed. 02
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+
+```

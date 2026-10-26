@@ -1,0 +1,310 @@
+# Ficha tecnica BT100 Ed 01
+
+## Datos de la ficha
+
+- **Referencia:** BT100
+- **Familia:** BT100
+- **Edición:** 01
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica BT100 Ed 01.pdf`
+
+## Extracto técnico
+
+```
+Pág. 1/6 
+BARANDILLA TELESCÓPICA, BT100 Ed. 01
+FICHA TÉCNICA
+Savera 
+Elevator  System Solutions
+EMESA
+FR-7 054-01 
+BT 100 H= 700, HR =239
+BT 100 H= 1100, HR =639
+Pág. 2/6 
+Ed. 01
+FICHA TÉCNICA
+Savera 
+Elevator  System Solutions
+EMESA
+FR-7 054-01 
+BARANDILLA TELESCÓPICA, BT100
+CARACTERISTICAS 
+Barandilla según EN81-21 y EN81-20 
+L Longitud L Mín. 800 Máx. 1700 
+H Altura 
+HR Altura reducida 
+PESO 
+Mín. Máx.  (Kg) 
+C400BT0000T1 Cto. Barandilla telescópica BT100 TIPO1, H=700, L=800-1100 800 1100 11.9 
+C400BT0000T2 Cto. Barandilla telescópica BT100 TIPO2, H=700, L=1101-1400 1101 1400 12.5 
+C400BT0000T3 Cto. Barandilla telescópica BT100 TIPO3, H=700, L=1401-1700 1401 1700 14.5 
+C400BT0000T4 Cto. Barandilla telescópica BT100 TIPO4, H=1100, L=800-1100 800 1100 17.5 
+C400BT0000T5 Cto. Barandilla telescópica BT100 TIPO5, H=1100, L=1101-1400 1101 1400 18 
+C400BT0000T6 Cto. Barandilla telescópica BT100 TIPO6, H=1100, L=1401-1700 1401 1700 20 
+C400BT0000T7 Cto. Barandilla telescópica BT100 TIPO7, H especial, L=800-1100 800 1100 -
+C400BT0000T8 Cto. Barandilla telescópica BT100 TIPO8, H especial, L=1101-1400 1101 1400 
+C400BT0000T9 Cto. Barandilla telescópica BT100 TIPO9, H especial, L=1401-1700 1401 1700 
+C400BT1000TA Cto. Barandilla telescópica BT100 contigua TIPO10, H=700, L=800-1100 800 1100 11.9 
+C400BT1000TB Cto. Barandilla telescópica BT100 contigua TIPO11, H=700, L=1101-1400 1101 1400 12.5 
+C400BT1000TC Cto. Barandilla telescópica BT100 contigua TIPO12, H=700, L=1401-1700 1401 1700 14.5 
+C400BT1000TD Cto. Barandilla telescópica BT100 contigua TIPO13, H=1100, L=800-1100 800 1100 17.5 
+C400BT1000TE Cto. Barandilla telescópica BT100 contigua TIPO14, H=1100, L=1101-1400 1101 1400 18 
+C400BT1000TF Cto. Barandilla telescópica BT100 contigua TIPO15, H=1100, L=1401-1700 1401 1700 20 
+C400BT1000TG Cto. Barandilla telescópica BT100 contigua TIPO16, H especial, L=800-1100 800 1100 -
+C400BT1000TH Cto. Barandilla telescópica BT100 contigua TIPO17, H especial, L=1101-1400 1101 1400 
+C400BT1000TI Cto. Barandilla telescópica BT100 contigua TIPO18, H especial, L=1401-1700 1401 1700 
+CÓDIGO DESCRIPCIÓN H
+-
+-
+L
+-
+-
+700 239 
+1100 639 
+HR 
+700 239 
+1100 639 
+291 57
+50 50 50
+L
+61 L - 122 61
+12 L - 24 12
+50 L - 100 50
+46 33,5
+11 41
+53
+INCLUYE 
+2 contactos de seguridad 1NA1NC según EN81-20 
+Kit fijación barandilla BT100 
+x8x8x8
+Pág. 3/6 
+Ed. 01
+FICHA TÉCNICA
+Savera 
+Elevator  System Solutions
+EMESA
+FR-7 054-01 
+BARANDILLA TELESCÓPICA, BT100
+BT 100 H= 700, HR =239
+168
+80
+HR
+125,2
+94,5
+79,5
+377
+L
+46
+H
+27 416
+443
+453
+Pág. 4/6 
+Ed. 01
+FICHA TÉCNICA
+Savera 
+Elevator  System Solutions
+EMESA
+FR-7 054-01 
+BARANDILLA TELESCÓPICA, BT100
+BT 100 H= 1100, HR =639
+401
+HR
+80
+46L
+H
+27 416
+443
+451
+401
+479,5
+Pág. 5/6 
+Ed. 01
+FICHA TÉCNICA
+Savera 
+Elevator  System Solutions
+EMESA
+FR-7 054-01 
+BARANDILLA TELESCÓPICA, BT100
+LON GITU D BARANDILLA BT 100
+ML = B - M - N N
+B
+A
+215215
+65353
+B
+M L = B - M - N N
+A
+215215
+65 353
+215 215 215215
+85 ... 100
+5 ... 20
+85 ... 100
+5 ... 20
+A Ancho plataforma 
+B Fondo plataforma 
+M Distancia izquierda barandilla al techo 
+N Distancia derecha barandilla al techo 
+M L = A - M - N N
+B
+215 215
+65353
+215 215
+85 ... 100
+5 ... 20
+A
+M N
+128 128 
+168 … 250 168 … 250 
+128 128 
+168 … 250 168 … 250 
+137 128 
+168 … 250 168 … 250 
+BT100 90º 
+CHASIS MOCHILA 
+FONDO 
+CHASIS MOCHILA 
+LATERAL 
+CHASIS PORTICO 
+M N
+128 128 
+168 … 250 168 … 250 
+128 128 
+168 … 250 168 … 250 
+128 137 
+168 … 250 168 … 250 
+BT100 270º 
+CHASIS PORTICO 
+CHASIS MOCHILA 
+LATERAL 
+CHASIS MOCHILA 
+FONDO 
+M N
+BT100 180º 
+CHASIS PORTICO 137 … 250 137 … 250 
+CHASIS MOCHILA 
+LATERAL 
+CHASIS MOCHILA 
+FONDO 
+137 … 250 137 … 250 
+128 … 250 128 … 250 
+128128
+J
+DETALLE J 
+5 ... 20
+85 ... 100
+Pág. 6/6
+Ed. 01
+FICHA TÉCNICA
+Savera 
+Elevator  System Solutions
+EMESA
+FR-7 054-01 
+BARANDILLA TELESCÓPICA, BT100
+B
+215 215
+65353
+215 215
+65 353 65353
+215
+215
+155 L = A - 310 155
+5
+85
+LON GITU D BARANDILLA BT 100 CON TIGUA (EN  180º) 
+A Ancho plataforma 
+B Fondo plataforma 
+M Distancia izquierda barandilla al techo 
+N Distancia derecha barandilla al techo 
+B
+215 215
+65353
+215 215
+65 353
+215
+215
+155 L = A -155 - N N
+5
+B
+215 215
+65353
+215 215
+65353
+M L = A - M -155 155
+5
+A
+A
+A
+5
+85
+5
+85
+5
+85
+5
+85
+PL = B - N - P N
+M L = B - M - P PPL = B - M - P M
+N L = B - N - P P
+85
+85
+128128
+M N P
+128 
+168 … 250 
+128 
+168 … 250 
+128 
+168 … 250 128 … 250 
+137 … 250 
+CHASIS MOCHILA 
+FONDO 
+137 … 250 
+CHASIS PORTICO 
+CHASIS MOCHILA 
+LATERAL 
+BT100 90º + 
+BT100 CONTIGUA 180º 
+128 / 168 
+128 / 168 
+128 / 168 
+M N P
+128 128 
+168 … 250 168 … 250 
+128 128 
+168 … 250 168 … 250 
+128 128 
+168 … 250 168 … 250 
+CHASIS MOCHILA 
+FONDO 
+CHASIS MOCHILA 
+LATERAL 
+128 / 168 
+CHASIS PORTICO 
+BT100 90º + BT100 270º + 
+BT100 CONTIGUA 180º 
+128 / 168 
+128 / 168 
+M N P
+128 
+168 … 250 
+128 
+168 … 250 
+128 
+168 … 250 
+BT100 270º + 
+BT100 CONTIGUA 180º 
+CHASIS MOCHILA 
+FONDO 128 … 250 
+CHASIS MOCHILA 
+LATERAL 137 … 250 
+CHASIS PORTICO 128 / 168 
+128 / 168 
+128 / 168 
+137 … 250 
+128128
+128 128
+
+```

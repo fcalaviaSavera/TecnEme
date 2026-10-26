@@ -1,0 +1,445 @@
+# Ficha tecnica BL CEM-1250-DS Ed 02
+
+## Datos de la ficha
+
+- **Referencia:** CEM-1250-DS
+- **Familia:** CEM
+- **Edición:** 02
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica BL CEM-1250-DS Ed 02.pdf`
+
+## Extracto técnico
+
+```
+CHASIS ELÉCTRICO MOCHILA CEM-1250-DS
+FICHA TÉCNICA Pág. 1/4
+FIJACION SUPERIOR
+CHASIS CABINA HIDRAULICO
+CHM-1250-I (Opcional)
+TRAVESAÑO CIERRE SUPERIOR
+FIJACION TRAVESAÑO
+CIERRE SUPERIOR
+TOPE SUPERIOR
+CHASIS
+LARGUERO
+RODADERA
+Ø125 / Ø 150
+(según carga útil)
+REFUERZO
+LARGUERO
+CONJUNTO TIRO
+DE CABLES
+CAJA DE CUÑAS
+SLC 2500-S
+SILENTBLOCKS INFERIORES
+(Opcional)
+CARTELA
+REFUERZO INTERIOR
+CARTELA - LARGUERO
+RODADERA
+Ø125 / Ø 150
+(según carga útil)
+TRAVESAÑO CIERRE
+DELANTERO
+TRAVESAÑO INFERIOR
+DELANTERO
+CONJUNTO TIRANTES
+TRAVESAÑO INFERIOR
+TRASERO
+PROLONGADOR CARTELA
+PATIN GUIA
+TERMINALES DE SUSPENSIÓN
+PATIN GUIA
+TECHNICAL SHEET Pg. 1/4
+CANTILEVER CAR FRAME TRACTION CEM-1250-DS
+UPPER CROSSBEAM
+FRAME TOP LIMIT
+UPRIGHT
+UPRIGHT
+REINFORCEMENT
+PULLING BEAM
+SAFETY GEAR
+SLC 2500-S
+SLIDING INSERT
+BOTTOM SILENTBLOCKS
+(Optional)
+FRONT BOTTOM
+CROSSBEAM
+CANTILEVER BEAM
+FRONT BOTTOM
+CROSSBEAM
+INTERIOR REINFORCEMENT
+UPRIGHT-CANTILEVER BEAM
+BRACES
+TOP SUPPORT FIXING
+(Optional)
+ROLLER Ø125 / Ø 150
+(depending on rated load)
+ROLLER Ø125 / Ø 150
+(depending on rated load)
+REAR BOTTOM
+CROSSBEAM
+CANTILEVER BEAM
+EXTENSION
+ROPE ENDINGS
+FIXING FOR TOP
+UPPER CROSSBEAM
+SLIDING INSERT
+Ed. 02
+Elevator  System Solutions
+Savera 
+EMESA
+F-10254_02
+CHASIS ELÉCTRICO MOCHILA CEM-1250-DS
+FICHA TÉCNICA Pág. 2/4
+(Para cabinas
+EMESA)
+Zona apoyo amortiguador
+DET A 
+DET A 
+RODADERA Ø 125
+RODADERA Ø 150
+RODADERA Ø 125
+RODADERA Ø 150
+*Para cabinas de altura exterior
+H ≤ 2300 se puede reducir a
+Zmin = 190 mm.
+(Aconsejado)
+(Aconsejado)
+(EG-126)
+1/4 EG (EG-34) 1/4 EG
+EG-2
+(EG+96)
+TECHNICAL SHEET Pg. 2/4
+CANTILEVER CAR FRAME TRACTION CEM-1250-DS
+DET A 
+DET A 
+ROLLER Ø 125
+ROLLER Ø 150
+ROLLER Ø 125
+ROLLER Ø 150
+*For cars with exterior height
+H ≤ 2300 "Z" measure can be
+reduced to Zmin = 190 mm.
+(For EMESA
+cars)
+Buffer support plate
+(Recommended)
+(Recommended)
+1/4 DBG (DBG-34) 1/4 DBG 
+DBG-2 
+(DBG+96) 
+(DBG-126) 
+Ed. 02
+Elevator  System Solutions
+Savera 
+EMESA
+F-10254_02
+DET A 
+DET A 
+O
+150
+O
+125
+8 (G16)
+8 (G16)
+133
+14
+158
+39
+Min=110Min=110
+OB Ø 12,5x141
+41
+129331
+117
+V
+A 170
+Zmax: 270 mm.
+Zmin: 220 mm.*
+Hmin : 2138 mm.
+Hmax : 2340 mm.
+119131 154
+35A
+34
+17052350
+2790
+3000
+450
+302
+B
+DET B 
+36
+DET B 
+49
+317 168 
+50 
+CHASIS ELÉCTRICO MOCHILA CEM-1250-DS
+FICHA TÉCNICA Pág. 3/4
+1800 
+1900 
+2000 
+2100 
+2200 
+2300 
+2400 
+2500 
+2600 
+1050 1150 1250 1350 1450 1550 1650 1750 1850 
+INCLUIDO:
+. Tensores cables hasta 6 x ø10/12
+OPCIONAL:
+. Fijaciones superiores a cabina.
+. Silentblocks inferiores.
+. Fijaciones superiores  deslizantes a cabina
+NOTAS:
+- En caso de montar limitador de velocidad,
+ver posición cable limitador:
+       * El modelo del Limitador SLC
+          LM18CD soporte corto Emesa
+          (montaje exterior)
+Nota: Datos independientes de la EG.
+TABLA DE P+Q EN FUNCION DE COTA A (voldado total)
+Ø 150 - G16
+Ø 125 - G9 / G16
+ECUACIÓN RECTA
+(P+Q) = 3950 - A
+ECUACIÓN RECTA
+(P+Q) = 3550 - A
+PROLONGADOR RANGO "A" 
+Posic. 1 1009 - 1135 
+Posic. 2 1136 - 1260 
+Posic. 3 1261 - 1385 
+Posic. 1 1386 - 1510 
+Posic. 2 1511 - 1635 
+Posic. 3 1636 - 1760 
+Tabla 1 
+Ø 125 Ø 150 
+G9 / G16 G16 
+T89/16 T90/16 
+T90/16 T114/16 
+T114-16 T125/16 
+T125-9 T127/16 
+T125-16 -
+T127-16 -
+GUÍAS PERMITIDAS 
+RODADERA 
+Peso chasis (Kg.) 
+CARTELA 1585 
+COTA "A" 
+CAJA CUÑAS 
+CARTELA 1210 
+10 x Ø 6,5     6 x Ø 10     6 x Ø 12 
+850-1600 
+SLC 25000-S 
+Ver tabla 1 
+440 aprox. 
+EG en saltos de 50 en 50 mm. 
+Rango EG 
+Guías permitidas 
+TABLA CARACTERÍSTICAS GENERALES 
+Ver tabla 1 
+2500 
+1:1 
+1
+Caja de cuñas 
+(P+Q) max. (Kg.) 
+Suspensión 
+Vel. Nominal max. (m/s) 
+Cables 
+* Ver tabla de P+Q en función de cota A (volado tot al)
+COTA A
+TECHNICAL SHEET Pg. 3/4
+CANTILEVER CAR FRAME TRACTION CEM-1250-DS
+1800 
+1900 
+2000 
+2100 
+2200 
+2300 
+2400 
+2500 
+2600 
+1050 1150 1250 1350 1450 1550 1650 1750 1850 
+A DIMENSION
+STRAIGHT EQUATION
+(P+Q) = 3950 - A
+INCLUDING:
+. Rope endings up to 6 x ø10/12
+OPTIONAL:
+. Top support fixings.
+. Bottom silentblocks.
+. Sliding top support fixings.
+NOTES:
+- When overspeed governor is mounted,
+see overspeed rope position:
+       * SLC overspeed governor model
+          will be: SLC LM18CD with short
+          Emesa plate. (External assembly)
+P+Q TABLE ACCORDING TO DIMENSIONS A (total cantilever)
+Note: Data irrespective of DBG.
+* See table of P+Q according to dim A (total cantilever)
+Ø 150 - G-16
+Ø 125 - G9 / G16
+STRAIGHT EQUATION
+(P+Q) = 3550 - A
+Pos. 1 1009 - 1135 
+Pos. 2 1136 - 1260 
+Pos. 3 1261 - 1385 
+Pos. 1 1386 - 1510 
+Pos. 2 1511 - 1635 
+Pos. 3 1636 - 1760 
+Table 1 
+Ø 125 Ø 150 
+G9 / G16 G16 
+T89/16 T90/16 
+T90/16 T114/16 
+T114-16 T125/16 
+T125-9 T127/16 
+T125-16 -
+T127-16 -
+TABLE OF GENERAL FEATURES 
+Max. Rated speed (m/s) 1
+Ropes 10 x Ø 6,5     6 x Ø 10     6 x Ø 12 
+(P+Q) max. (Kg.) 2500 
+Roping 1:1 
+Car frame weight (Kg.) 440 aprox. 
+DBG Range 850-1600 
+DBG Range: 50 on 50 mm. 
+Guide head See table 1 
+Safety gear See table 2 
+GUIDE HEAR 
+CANTILEVER BEAM 
+EXTENSION RANGE "A" 
+ROLLER 
+SAFETY GEAR SLC 25000-S 
+DIM "A" 
+CANTILEVER BEAM 
+1210 
+CANTILEVER BEAM  
+1585 
+Ed. 02
+Elevator  System Solutions
+Savera 
+EMESA
+F-10254_02
+T   
+  EG 
+850 CT 
+900 CT 
+950 CT 
+1000 CT 
+1050 CT 
+1100 CT 
+1150 CT 
+1200 CT 
+1250 CT 
+1300 CT 
+1350 CT 
+1400 CT 
+1450 CT 
+1500 CT 
+1550 CT 
+1600 CT 
+425 
+450 
+475 
+500 
+675 
+725 
+525 
+550 
+575 
+775 
+600 
+650 
+700 
+750 
+625 
+800 
+850 
+900 
+CHASIS ELÉCTRICO MOCHILA CEM-1250-DS
+FICHA TÉCNICA Pág. 4/4
+EG EG
+EG: Entreguía
+T: Tiro admitido
+CT: Centrado
+POSICIÓN LIMITADOR Y CABLE LIMITADOR
+ESTÁNDAR
+LIMITADOR A B E F G
+ESTÁNDAR 324 67 65 100 103,5 
+SLC 351 134 68,5 127 130,5 
+TIROS ADMITIDOS 
+TECHNICAL SHEET Pg. 4/4
+CANTILEVER CAR FRAME TRACTION CEM-1250-DS
+T   
+  DBG 
+850 CT 
+900 CT 
+950 CT 
+1000 CT 
+1050 CT 
+1100 CT 
+1150 CT 
+1200 CT 
+1250 CT 
+1300 CT 
+1350 CT 
+1400 CT 
+1450 CT 
+1500 CT 
+1550 CT 
+1600 CT 
+425 
+450 
+475 
+500 
+675 
+725 
+525 
+550 
+575 
+775 
+600 
+650 
+700 
+750 
+625 
+800 
+850 
+900 
+OVERSPEED 
+GOVERNOR 
+ESTANDARD 324 67 65 100 103,5 
+SLC 351 134 68,5 127 130,5 
+GA B E F
+DBG DBG 
+DBG:Distance Between Guides
+T: Available suspesion point
+CT: Centred
+ROPE AND OVERSPEED GOVERNOR POSITION
+STANDARD
+AVAILABLE SUSPENSION POINTS 
+Ed. 02
+Elevator  System Solutions
+Savera 
+EMESA
+F-10254_02
+T
+75
+T
+75
+75
+75
+SLC
+E
+G8-9: F
+G16:  G
+      
+B
+A
+B
+A
+
+```

@@ -1,0 +1,8 @@
+site_name: Asistente Tecnico EMESA
+
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Catalogo tecnico: catalogo.md

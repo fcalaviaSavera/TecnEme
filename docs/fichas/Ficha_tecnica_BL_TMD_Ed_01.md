@@ -1,0 +1,157 @@
+# Ficha tecnica BL TMD Ed 01
+
+## Datos de la ficha
+
+- **Referencia:** No identificada
+- **Familia:** OTROS
+- **Edición:** 01
+- **Estado:** No distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\Fichas NO distribuidas\Productos Raloe\Ficha tecnica BL TMD Ed 01.pdf`
+
+## Extracto técnico
+
+```
+CONJUNTO TMD 
+FICHA TÉCNICA Pág. 1/4
+CHASIS 
+MOCHILA 
+CHASIS 
+PÓRTICO / 
+CONTRAPESO
+(FUNCIONAMIENTO) 
+(FUNCIONAMIENTO) 
+(MANTENIMIENTO) 
+(MANTENIMIENTO) 
+TECHNICAL SHEET 
+PIT PROP TMD 
+Pg. 1/4
+(WORKING) 
+(WORKING) 
+(MAINTENANCE) 
+(MAINTENANCE) 
+CANTILEVER CAR 
+FRAME 
+PORTICO TYPE/ 
+COUNTERWEIGHT 
+FRAME 
+Ed. 01 
+Savera 
+Elevator  System Solutions 
+EMESA
+F-10254_02 
+CONJUNTO TMD 
+FICHA TÉCNICA Pág. 2/4
+BASE TMD-M 
+PEANA TMD-M 
+AMORTIGUADOR 
+NO INCLUIDO 
+BASE TMD-U 
+PEANA TMD-U 
+AMORTIGUADOR 
+NO INCLUIDO 
+TECHNICAL SHEET 
+PIT PROP TMD 
+Pg. 2/4
+TMD-M BASE 
+TMD-M STAND 
+BUFFER 
+NOT INCLUDED 
+TMD-U BASE 
+TMD-U STAND 
+BUFFER 
+NOT INCLUDED 
+Ed. 01 
+Savera 
+Elevator  System Solutions 
+EMESA
+F-10254_02 
+TMD-U
+TMD-M
+CONJUNTO TMD 
+FICHA TÉCNICA Pág. 3/4
+CORTE A-A 
+Taladro unión amortiguador M12 
+TMD EN FUNCIONAMIENTO 
+*LTU : ALTURA DEL PEDESTAL EN USO NORMAL 
+BASE TMD-M RECOGIDO 
+  LTU MÍN. = 70mm 
+TECHNICAL SHEET 
+PIT PROP TMD 
+Pg. 3/4
+Buffer fixing hole M12 
+TMD WORKING POSITION 
+*LTU : WORKING STAND HEIGHT 
+ LTU MIN. = 70mm 
+TMD-M STORAGE BASE 
+SECTION A-A 
+Ed. 01 
+Savera 
+Elevator  System Solutions 
+EMESA
+F-10254_02 
+A
+A
+60 
+62 
+140 
+45 
+384 
+145 
+140 
+80 *LTU 
+Ø45 
+210 
+150 46 
+CONJUNTO TMD 
+FICHA TÉCNICA Pág. 4/4
+CORTE B-B 
+TMD EN MANTENIMIENTO 
+Taladro unión amortiguador M12 
+*LTM : ALTURA PEANA MANTENIMIENTO 
+INCLUYE: 
+1 Conjunto TMD-U 
+1 Conjunto TMD-M 
+8 Tacos HILTI HSV-BW M 10x90 LT OFS 
+3 Contactos de seguridad NC según Norma EN81-20 
+- AMORTIGUADORES PERMITIDOS TMD-U : D0 , D2 Y D3 (NO INCLUIDOS) 
+                                                           TMD-M : D0 Y D2 (NO INCLUIDOS) 
+1300 1100 
+2250 CARGA MÁX. (kg) 
+ALTURA LTU / LTM (mm) 
+1400 2800 
+1500 ≤ 900 
+1750 
+TECHNICAL SHEET 
+PIT PROP TMD 
+Pg. 4/4
+TMD MAINTENANCE POSITION 
+Buffer fixing hole M12 
+*LTM : MAINTENANCE STAND HEIGHT 
+INCLUDING: 
+1 TMD-U set 
+1 TMD-M set 
+8 Expander bolts HILTI HSV-BW M 10x90 LT OFS 
+3 Security switch NC according Norm EN81-20 
+- ALLOWED BUFFERS TMD-U : D0, D2 & D3 (NOT INCLUDED) 
+                                     TMD-M : D0 & D2 (NOT INCLUDED) 
+SECTION B-B 
+2800 
+LTU / LTM HEIGHT (mm) 1500 1300 1100 ≤ 900 
+MAX. LOAD (kg) 1400 1750 2250 
+Ed. 01 
+Savera 
+Elevator  System Solutions 
+EMESA
+F-10254_02 
+B
+B
+380 
+145 
+*LTM 80 
+Ø 110 
+110 
+60 
+62 
+
+```

@@ -1,0 +1,158 @@
+# Ficha tecnica BL BAG-525 Ed.04
+
+## Datos de la ficha
+
+- **Referencia:** BAG-525
+- **Familia:** BAG
+- **Edición:** 04
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica BL BAG-525 Ed.04.pdf`
+
+## Extracto técnico
+
+```
+BASE ARRANQUE GUÍAS BAG-525, BAG-FR-525. 
+FICHA TÉCNICA Pág. 1/3
+BASE ARRANQUE GUIAS 
+BRIDA ELÁSTICA TIPO SL 
+SOPORTE GUIA 
+BASE ARRANQUE GUIAS 
+BRIDA ELÁSTICA TIPO SL 
+SOPORTE GUIA 
+TECHNICAL SHEET 
+FOOTPLATE BASE BAG-525, BAG-FR-525. 
+Pg. 1/3
+GUIDE SUPPORT 
+FOOTPLATE BASE 
+SLIDING CLIP TYPE SL 
+GUIDE SUPPORT 
+FOOTPLATE BASE 
+SLIDING CLIP TYPE SL 
+Ed. 04 
+Savera 
+Elevator  System Solutions 
+EMESA
+F-10254_02 
+BAG-FR-525 
+BAG-525 
+BASE ARRANQUE GUÍAS BAG-525, BAG-FR-525. 
+FICHA TÉCNICA Pág. 2/3
+EG 
+EG 
+TECHNICAL SHEET 
+FOOTPLATE BASE BAG-525, BAG-FR-525. 
+Pg. 2/3
+DBG 
+DBG 
+Ed. 04 
+Savera 
+Elevator  System Solutions 
+EMESA
+F-10254_02 
+L
+BAG-FR 136 
+54 
+33 
+75 100 
+212 
+170 
+BAG-FR-525 
+126,5 
+110 150,4 
+212 
+170 
+136 
+54 
+33 
+L
+110 150 
+BASE ARRANQUE GUÍAS BAG-525, BAG-FR-525. 
+FICHA TÉCNICA Pág. 3/3
+INCLUYE: 
+1 Base arranque guía en función de la EG 
+2 Soporte guias 
+4 Cjto tornillería M12 
+4 Conjuntos de bridas elásticas tipo SL con tornillería (según guia) 
+2 tacos HILTY HSAK M10x70 
+FILA 2 
+FILA 1 
+FILA 3 
+SOPORTE GUÍAS 
+BAG-525 
+L RANGO EG 
+510 350 ≤ EG ≤ 400 
+660 400 ≤ EG ≤ 500 
+760 500 < EG ≤ 600 
+860 600 < EG ≤ 700 
+960 700 < EG ≤ 800 
+1060 800 < EG ≤ 900 
+1160 900 < EG ≤ 1000 
+1260 1000 < EG ≤ 1100 
+1360 1100 < EG ≤ 1200 
+1460 1200 < EG ≤ 1300 
+BAG-FR-525 
+L= EG+160 
+FILA 1 FILA 2 FILA 3 
+T45/A T70-1/A T80-80-9/A 
+T50/A T70-2/A T89/A 
+T65/A T70-70-9/A T89/B 
+T75-3/A T90/A 
+T75-3/B T90/B 
+T78/B T90-14/A 
+T82/A T114/B 
+T82/B T125/B 
+T127-1/B 
+T127-2/B 
+T127-3/B 
+T140-1/B 
+T140-2/B 
+RANGO GUÍAS VÁLIDAS 
+TECHNICAL SHEET 
+FOOTPLATE BASE BAG-525, BAG-FR-525. 
+Pg. 3/3
+INCLUDES: 
+1 Footplate base 
+2 Guide sopports 
+4 M12 bolt sets 
+4 Sets sliding clips type SL with screws, washers (depending on guide) 
+2 Expander bolts HILTI HSA-K M10x70 
+LINE 2 
+LINE 1 
+LINE 3 
+GUIDE SUPPORT 
+LINE 1 LINE 2 LINE 3 
+T45/A T70-1/A T80-80-9/A 
+T50/A T70-2/A T89/A 
+T65/A T70-70-9/A T89/B 
+T75-3/A T90/A 
+T75-3/B T90/B 
+T78/B T90-14/A 
+T82/A T114/B 
+T82/B T125/B 
+T127-1/B 
+T127-2/B 
+T127-3/B 
+T140-1/B 
+T140-2/B 
+GUIDE RANGE BAG-525 
+L DBG RANGE 
+510 350 ≤ EG ≤ 400 
+660 400 ≤ EG ≤ 500 
+760 500 < EG ≤ 600 
+860 600 < EG ≤ 700 
+960 700 < EG ≤ 800 
+1060 800 < EG ≤ 900 
+1160 900 < EG ≤ 1000 
+1260 1000 < EG ≤ 1100 
+1360 1100 < EG ≤ 1200 
+1460 1200 < EG ≤ 1300 
+BAG-FR-525 
+L= DBG+160 
+Ed. 04 
+Savera 
+Elevator  System Solutions 
+EMESA
+F-10254_02 
+
+```

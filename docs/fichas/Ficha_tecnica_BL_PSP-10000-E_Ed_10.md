@@ -1,0 +1,139 @@
+# Ficha tecnica BL PSP-10000-E Ed 10
+
+## Datos de la ficha
+
+- **Referencia:** PSP-10000-E
+- **Familia:** PSP
+- **Edición:** 10
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica BL PSP-10000-E Ed 10.pdf`
+
+## Extracto técnico
+
+```
+CONJUNTO AMORTIGUADOR + PILAR SOPORTE AMORTIGUADOR
+PSP-10000-E
+FICHA TÉCNICA Pág. 1/2
+CHASIS MOCHILA
+CHASIS
+PORTICO/CONTRAPESO
+TECHNICAL SHEET
+BUFFER + BUFFER STAND PSP-10000-E
+Pg. 1/2
+CANTILEVER CAR
+FRAME
+PORTICO TYPE/
+COUNTERWEIGHT FRAME
+Ed. 10
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+CONJUNTO AMORTIGUADOR + PILAR SOPORTE AMORTIGUADOR
+PSP-10000-E
+FICHA TÉCNICA Pág. 2/2
+CARACTERÍSTICAS:
+INCLUYE:
+*Tacos.
+*Tornillería.
+* Los pedidos deberán cumplimentarse según los modelos de la tabla.
+NOTA: La carga máxima del conjunto amortiguador se refiere al pilar en su posición más desplegada.
+MODELO  * P+Q MÁX (Kg) 
+PSP-10000-E1 
+PSP-10000-E2 
+PSP-10000-E3 
+PSP-10000-E4 
+PSP-10000-E5 
+2500 
+200-290 
+291-416 
+417-720 
+721-1020 
+1021-1400 
+CTO. AMORTIGUADOR 
+PSP-10000-E 
+L (mm) 
+MODELO DIMENSIONES RANGO 
+AMORTIGUADOR (mm) VELOCIDAD (m/s) MIN MAX 
+D0 0,63 150 1200 
+211800774 1 180 600 
+D2 0,63 250 3200 
+211802774 1 330 1250 
+D3 0,63 500 5200 
+211803774 1 600 1850 
+D5 0,63 600 7500 
+211805774 1 650 2700 
+P+Q (kg) 
+Ø100x80 
+Ø80x80 
+Ø125x80 
+Ø165x80 
+Taladro unión amortiguador ø18.5
+NOTA: Ambas vistas corresponden al modelo PSP-10000-E5
+TECHNICAL SHEET
+BUFFER + BUFFER STAND PSP-10000-E
+Pg. 2/2
+Buffer union bore O18.5 
+FEATURES:
+INCLUDING
+*Expander bolts
+*Hardware
+NOTE: Both views correspond to the model PSP-10000-H5
+* The orders must be filled acording to the models indicated in the table above.
+NOTE: Maximum load indicated for maximum extended Buffer Set position
+MODEL * MÁX P+Q (Kg) 
+PSP-10000-E1 
+PSP-10000-E2 
+PSP-10000-E3 
+PSP-10000-E4 
+PSP-10000-E5 
+BUFFER SET L (mm) 
+PSP-10000-E 
+200-290 
+2500 
+721-1020 
+1021-1400 
+291-416 
+417-720 
+BUFFER DIMENSIONS SPEED 
+MODEL (mm) RANGE (m/s) MIN MAX 
+D0 0,63 150 1200 
+211800774 1 180 600 
+D2 0,63 250 3200 
+211802774 1 330 1250 
+D3 0,63 500 5200 
+211803774 1 600 1850 
+D5 0,63 600 7500 
+211805774 1 650 2700 
+Ø125x80 
+Ø165x80 
+P+Q (kg) 
+Ø80x80 
+Ø100x80 
+Ed. 10
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02
+135
+165
+H
+  O
+100
+110
+165
+327
+145
+L
+51
+210 145
+CHM CEP/CC
+O 210 
+327 
+145 
+L H
+125 
+O
+
+```

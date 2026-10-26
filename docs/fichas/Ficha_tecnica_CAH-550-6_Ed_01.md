@@ -1,0 +1,73 @@
+# Ficha tecnica CAH-550-6 Ed 01
+
+## Datos de la ficha
+
+- **Referencia:** CAH-550-6
+- **Familia:** CAH
+- **Edición:** 01
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica CAH-550-6 Ed 01.pdf`
+
+## Extracto técnico
+
+```
+Pág. 1/2
+CABEZAL HIDRÁULICO CAH-550-6 Ed. 01
+FICHA TÉCNICA
+Elevator  System Solutions
+Savera
+EMESA
+TRAVESAÑO SUPERIOR
+CABEZAL
+CARENADO CABEZAL EJE CABEZAL
+FIJACION PLACA
+LATERAL A EJE CABEZAL
+SOPORTE
+ROZADERA
+POLEA O550x6x12
+ESPADIN FIN DE CARRERA
+REFUERZO PLACA
+LATERAL
+ENGRASADOR (OPCIONAL)
+PLACA LATERAL
+CABEZAL
+PLACA INFERIOR CABEZAL
+PLACA AJUSTE INFERIOR CABEZAL
+Pág. 2/2
+CABEZAL HIDRÁULICO CAH-550-6 Ed. 01
+FICHA TÉCNICA
+Elevator  System Solutions
+Savera
+EMESA
+567
+A
+258
+O 550
+20
+195
+188
+113
+ A
+EG=750
+690
+792
+240
+300403
+838
+844
+682 70
+2020
+A = 80,100 ó 120
+172
+128
+Peso aprox: 120 Kg. ( ± 4 )
+Carga máxima estática en eje: 9500 Kg
+∅ cable 12,13 mm
+Cabeza guia: 5 ; (8 Opcional)
+O 32
+(∅ 62 Opcional )
+95
+FIJACION CABEZAL A PISTON
+
+```

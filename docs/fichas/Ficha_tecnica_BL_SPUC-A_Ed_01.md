@@ -1,0 +1,118 @@
+# Ficha tecnica BL SPUC-A Ed 01
+
+## Datos de la ficha
+
+- **Referencia:** No identificada
+- **Familia:** OTROS
+- **Edición:** 01
+- **Estado:** No distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\Fichas NO distribuidas\Ficha tecnica BL SPUC-A Ed 01.pdf`
+
+## Extracto técnico
+
+```
+CTO. FIJACION SPUC-A 
+FICHA TÉCNICA Pág. 1/2
+ESCUADRA FIJACIÓN 
+A PARED 
+ESCUADRA FIJACIÓN 
+A GUIA 
+GUIA CC 
+CTO. BRIDA CON 
+TORNILLERIA SL1 
+TORNILLOS SUJECCIÓN 
+CTO. FIJACIÓN SPUC-A
+CTO. FIJACIÓN SPUC-A 
+MANO IZQUIERDA 
+CTO. FIJACIÓN SPUC-A 
+MANO DERECHA 
+Pg. 1/2
+ SPUC-A FIXATION SET 
+TECHNICAL SHEET 
+SPUC-A FIXING SET 
+GUIDE FIXING 
+BRACKET 
+GUIDE FIXING 
+BRACKET 
+SL1 CLIP UNIT 
+FIX BOLTS 
+CTO. FIXATION SPUC-A 
+LEFT HAND 
+CTO. FIXATION SPUC-A 
+RIGHT HAND 
+CW GUIDE 
+Ed. 01 
+Elevator  System Solutions 
+Savera 
+EMESA
+F-10254_02 
+CTO. FIJACION SPUC-A 
+FICHA TÉCNICA Pág. 2/2
+FIJACIONES SPUC-A 
+CODIGO VENTA FIJACION L E min. E max. J O T
+A900AU10SU2D 
+A900AU10SU2I 
+A900AU10SU1D 
+A900AU10SU1I 
+A900AU10SU3D 
+A900AU10SU3I 52 70 
+49 37 
+105 134 53 52 105<134 
+163 32 
+46 
+80 104 
+58 193 
+80<104 
+135<180 239 135 180 
+GUIA BRIDA AA* 
+T65 SL1 83 
+OBSERVACIONES: 
+* Incluye bridas unión de guías 
+y tornillería para unión de placas. 
+* No incluye tacos a pared 
+Pg. 2/2
+ SPUC-A FIXATION SET 
+TECHNICAL SHEET 
+SPUC-A FIXATION 
+SALE CODE FIXATION L E min. E max. J O T
+A900AU10SU2D 
+A900AU10SU2I 
+A900AU10SU1D 
+A900AU10SU1I 
+A900AU10SU3D 
+A900AU10SU3I 
+37 
+180 46 52 
+52 
+32 
+70 
+105<134 193 105 134 53 58 
+80<104 163 80 104 
+135<180 239 135 
+49 
+GUIDE CLIP AA* 
+T65 SL1 83 
+NOTES: 
+* Clips for guides and fastening hardware 
+ are included 
+* Expander bolts not included 
+Ed. 01 
+Elevator  System Solutions 
+Savera 
+EMESA
+F-10254_02 
+L
+85 65 
+T
+AA 
+O R 4,5 
+64 
+OB O12,5x37,5 
+J
+E
+90 
+70 
+OB O9x18 
+
+```

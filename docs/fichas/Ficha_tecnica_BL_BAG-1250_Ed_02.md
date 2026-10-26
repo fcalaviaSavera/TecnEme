@@ -1,0 +1,122 @@
+# Ficha tecnica BL BAG-1250 Ed 02
+
+## Datos de la ficha
+
+- **Referencia:** BAG-1250
+- **Familia:** BAG
+- **Edición:** 02
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica BL BAG-1250 Ed 02.pdf`
+
+## Extracto técnico
+
+```
+BASE ARRANQUE GUÍAS BAG-1250 
+FICHA TÉCNICA Pág. 1/2
+SOPORTE GUIA BAG-1250 
+BASE ARRANQUE GUIAS BAG-1250 
+BRIDA ELÁSTICA TIPO SL 
+TECHNICAL SHEET 
+FOOTPLATE BASE BAG-1250 
+Pg. 1/2
+GUIDE SUPPORT BAG-1250 
+FOOTPLATE BASE BAG-1250 
+SLIDING CLIP TYPE SL 
+Ed. 02 
+Savera 
+Elevator  System Solutions 
+EMESA
+F-10254_02 
+BASE ARRANQUE GUÍAS BAG-1250 
+FICHA TÉCNICA Pág. 2/2
+INCLUYE: 
+1 Base arranque guía en función de la EG 
+2 Soporte guias 
+4 Cjto tornillería M12 
+4 Conjuntos de bridas elásticas tipo SL con tornillería (según guia) 
+2 tacos HILTY HSAK M10x70 
+FILA 2 
+FILA 1 
+FILA 3 
+SOPORTE GUÍAS 
+EG 
+FILA 1 FILA 2 FILA 3 
+T45/A T70-1/A T80-80-9/A 
+T50/A T70-2/A T89/A 
+T65/A T70-70-9/A T89/B 
+T75-3/A T90/A 
+T75-3/B T90/B 
+T78/B T90-14/A 
+T82/A T114/B 
+T82/B T125/B 
+T127-1/B 
+T127-2/B 
+T127-3/B 
+T140-1/B 
+T140-2/B 
+RANGO GUÍAS VÁLIDAS L Rango EG 
+875 500 < EG ≤ 600 
+975 600 < EG ≤ 700 
+1075 700 < EG ≤ 800 
+1175 800 < EG ≤ 900 
+1275 900 < EG ≤ 1000 
+1375 1000 < EG ≤ 1100 
+1475 1100 < EG ≤ 1200 
+1575 1200 < EG ≤ 1300 
+1675 1300 < EG ≤ 1400 
+1775 1400 < EG ≤ 1500 
+1875 1500 < EG ≤ 1600 
+TECHNICAL SHEET 
+FOOTPLATE BASE BAG-1250 
+Pg. 2/2
+DBG 
+INCLUDES: 
+1 Footplate base 
+2 Guide supports 
+4 M12 bolt sets 
+4 Sets sliding clips type SL with screws, washers (depending on guide) 
+2 Expander bolts HILTY HSAK M10x70 
+LINE 2 
+LINE 1 
+LINE 3 
+GUIDE SUPPORT 
+LINE 1 LINE 2 LINE 3 
+T45/A T70-1/A T80-80-9/A 
+T50/A T70-2/A T89/A 
+T65/A T70-70-9/A T89/B 
+T75-3/A T90/A 
+T75-3/B T90/B 
+T78/B T90-14/A 
+T82/A T114/B 
+T82/B T125/B 
+T127-1/B 
+T127-2/B 
+T127-3/B 
+T140-1/B 
+T140-2/B 
+GUIDE RANGE L DBG RANGE 
+875 500 < DBG ≤ 600 
+975 600 < DBG ≤ 700 
+1075 700 < DBG ≤ 800 
+1175 800 < DBG ≤ 900 
+1275 900 < DBG ≤ 1000 
+1375 1000 < DBG ≤ 1100 
+1475 1100 < DBG ≤ 1200 
+1575 1200 < DBG ≤ 1300 
+1675 1300 < DBG ≤ 1400 
+1775 1400 < DBG ≤ 1500 
+1875 1500 < DBG ≤ 1600 
+Ed. 02 
+Savera 
+Elevator  System Solutions 
+EMESA
+F-10254_02 
+200 
+210 
+33 
+54 
+138 
+L
+
+```

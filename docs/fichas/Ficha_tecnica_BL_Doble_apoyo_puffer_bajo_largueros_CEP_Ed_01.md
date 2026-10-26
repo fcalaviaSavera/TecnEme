@@ -1,0 +1,67 @@
+# Ficha tecnica BL Doble apoyo puffer bajo largueros CEP Ed 01
+
+## Datos de la ficha
+
+- **Referencia:** No identificada
+- **Familia:** OTROS
+- **Edición:** 01
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica BL Doble apoyo puffer bajo largueros CEP Ed 01.pdf`
+
+## Extracto técnico
+
+```
+DOBLE APOYO PUFFER BAJO LARGUEROS CEP
+FICHA TÉCNICA Pág. 1/2
+APOYO PUFFER 
+BAJO LARGUEROS CEP 
+Pg. 1/2
+DOUBLE BUFFER SUPPORT UNDER CEP UPRIGHT
+TECHNICAL SHEET
+BUFFER SUPPORT 
+UNDER CEP UPRIGHT 
+Ed. 01
+EMESA
+Savera 
+Elevator  System Solutions
+F-10254_02
+CEP 
+DOBLE APOYO PUFFER BAJO LARGUEROS CEP
+FICHA TÉCNICA Pág. 2/2
+PUFFER A Máx. A Min. 
+D0 EG-170 EG-316 
+D2 EG-170 EG-292 
+D3 EG-200 EG-264 
+Modelos CEP 
+CEP-450-DS 
+CEP-450-DS 2:1 P 
+CEP-750-DS 
+CEP-750-DS 2:1 P 
+Pg. 2/2
+DOUBLE BUFFER SUPPORT UNDER CEP UPRIGHT
+TECHNICAL SHEET
+BUFFER A Max. A Min. 
+D0 DBG-170 DBG-316 
+D2 DBG-170 DBG-292 
+D3 DBG-200 DBG-264 
+CEP Models 
+CEP-450-DS 
+CEP-450-DS 2:1 P 
+CEP-750-DS 
+CEP-750-DS 2:1 P 
+Ed. 01
+EMESA
+Savera 
+Elevator  System Solutions
+F-10254_02
+ADET. A 
+24 200 
+165 
+157 
+30 
+196 
+A
+A-110 
+
+```

@@ -1,0 +1,328 @@
+# Ficha tecnica BL CHM-1250-TD Ed 02
+
+## Datos de la ficha
+
+- **Referencia:** CHM-1250-TD
+- **Familia:** CHM
+- **Edición:** 02
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica BL CHM-1250-TD Ed 02.pdf`
+
+## Extracto técnico
+
+```
+CHASIS HIDRAULICO MOCHILA CHM-1250-TD
+FICHA TÉCNICA Pág. 1/3
+TRAVESAÑO CIERRE SUPERIOR
+FIJACION TRAVESAÑO
+CIERRE SUPERIOR
+TOPE SUPERIOR
+CHASIS
+LARGUERO
+REFUERZO
+LARGUERO
+CALZA + PATIN GUIA
+SILENTBLOCKS INFERIORES
+(Opcional)
+TRAVESAÑO CIERRE
+DELANTERO CARTELA
+TRAVESAÑO INFERIOR
+DELANTERO
+CONJUNTO TIRANTES
+FIJACION SUPERIOR
+CHASIS CABINA HIDRAULICO
+CHM-1250-I (Opcional)
+RODADERA
+Ø125 / Ø 150
+(según carga útil)
+RODADERA
+Ø125 / Ø 150
+(según carga útil)
+TRAVESAÑO INFERIOR
+TRASERO
+PROLONGADOR CARTELA
+TRAVESAÑO PROLONGADOR
+SUPERIOR
+PROLONGADOR
+PLACA APOYO PISTON
+CALZA + PATIN GUIA
+TECHNICAL SHEET Pg. 1/3
+CANTILEVER CAR FRAME HYDRAULIC CHM-1250-TD
+UPPER CROSSBEAM
+FIXING FOR UPPER CLOSING
+CROSSBEAM
+FRAME TOP LIMIT
+UPRIHT
+UPRIGHT REINFORCEMENT
+SLIDING INSERT + WEDGE
+BOTTOM SILENTBLOCKS
+(Optional)
+FRONT CLOSING
+CROSSBEAM
+CANTILEVER BEAM
+FRONT BOTTOM
+CROSSBEAM
+BRACES
+TOP SUPPORT
+FIXING (Optional)
+ROLLER Ø125 / Ø 150
+(depending on useful charge)
+ROLLER Ø125 / Ø 150
+(depending on useful charge)
+REAR BOTTOM
+CROSSBEAM
+CANTILEVER BEAM
+EXTENSION
+UPPER PUSHING
+CROSSBEAM
+UPRIGHT EXTENSION
+PISTON PUSHING PLATE
+SLIDING INSERT + WEDGE
+Ed. 02
+Elevator  System Solutions
+Savera 
+EMESA
+F-10254_02
+CHASIS HIDRAULICO MOCHILA CHM-1250-TD
+FICHA TÉCNICA Pág. 2/3
+(Para cabinas
+EMESA)
+* EJEMPLO MOSTRADO PARA
+  G16 RODADERA Ø125
+(cotas 20 mm. mayores para G9)
+RODADERA Ø 125
+RODADERA Ø 150
+RODADERA Ø 125
+RODADERA Ø 150
+*Para cabinas de altura exterior
+H ≤ 2300 se puede reducir a
+Zmin = 190 mm.
+(Aconsejado)
+(Aconsejado) EG - 2
+(EG - 54)*
+(EG + 76)*
+(EG-146)*
+Zona apoyo amortiguador
+1/4 EG1/4 EG
+Variable (altura total del chasis)
+DET A 
+DET B 
+DET A 
+DET B 
+*Otras preparaciones 
+ consultar 
+TECHNICAL SHEET Pg. 2/3
+CANTILEVER CAR FRAME HYDRAULIC CHM-1250-TD
+ROLLER Ø 125
+ROLLER Ø 150
+ROLLER Ø 125
+ROLLER Ø 150
+(Recommended)
+(Recommended)
+* EXAMPLE SHOWN FOR
+   G16 ROLLER Ø125
+   (dim. 20 mm. higher for G9)
+*For cars with exterior height
+H ≤ 2300 "Z" measure can be
+reduced to Zmin = 190 mm.
+(For EMESA cars)
+Buffer support plate
+Total frame height (variable) 
+1/4 DBG (DBG - 54)* 1/4 DBG 
+DBG - 2 
+(DBG + 76)* 
+(DBG-146)* 
+DET A 
+DET B 
+DET A 
+DET B 
+*Enquire for 
+ others adaptions 
+Ed. 02
+Elevator  System Solutions
+Savera 
+EMESA
+F-10254_02
+OB Ø 12,5x141
+350
+119 131 154
+2790
+A 170
+Zmin: 220 mm
+Zmax: 270 mm
+37
+222
+456
+3000
+E
+34
+Hmin : 2138 mm.
+Hmax : 2340 mm.
+V
+C
+DET C 
+113 131
+331 129 41
+min = 110
+min = 110
+A
+E
+DET A 
+O
+125
+8 (G 16)
+133
+14
+DET B 
+DET A 
+39 
+158 
+8 (G 16) 
+O
+150 
+45 
+DET B 
+28,5 (G9)
+48,5 (G16)
+B
+317 168 
+50 
+D D
+ D-D 
+115 
+O 13 
+CHASIS HIDRAULICO MOCHILA CHM-1250-TD
+FICHA TÉCNICA Pág. 3/3
+PROLONGADOR RANGO "A" 
+Posic. 1 1009 - 1135 
+Posic. 2 1136 - 1260 
+Posic. 3 1261 - 1385 
+Posic. 1 1386 - 1510 
+Posic. 2 1511 - 1635 
+Posic. 3 1636 - 1760 
+Tabla 1 
+Ø 125 Ø 150 
+T89/16 T90/16 
+T90/16 T114/16 
+T114-16 T125/16 
+T125-9 T127/16 
+T125-16 -
+T127-16 -
+GUÍAS PERMITIDAS 
+RODADERA 
+(P+Q) max. (Kg.) 
+Suspensión 
+Vel. Nominal max. (m/s) 
+Peso chasis (Kg.) 
+CARTELA 1585 
+COTA "A" 
+Rango EG 
+TABLA CARACTERÍSTICAS GENERALES 
+2500 
+1:1 
+1
+Guías permitidas Ver tabla 1 
+CARTELA 1210 
+400 aprox. 
+EG en saltos de 50 en 50 mm. 
+Rango prolongadores Emax. = 4200 
+850-1600 
+Emin. = 3050 
+OPCIONAL:
+. Fijaciones superiores a cabina.
+. Silentblocks inferiores.
+Nota: Datos independientes de la EG.
+* Ver tabla de P+Q en función de cota A (volado tot al)
+1800 
+1900 
+2000 
+2100 
+2200 
+2300 
+2400 
+2500 
+2600 
+1050 1150 1250 1350 1450 1550 1650 1750 1850 
+COTA A 
+TABLA DE P+Q EN FUNCION DE COTA A (voldado total)
+Ø 150 - G16
+Ø 125 - G9 / G16
+ECUACIÓN RECTA
+(P+Q) = 3950 - A
+ECUACIÓN RECTA
+(P+Q) = 3550 - A
+TECHNICAL SHEET Pg. 3/3
+CANTILEVER CAR FRAME HYDRAULIC CHM-1250-TD
+1800 
+1900 
+2000 
+2100 
+2200 
+2300 
+2400 
+2500 
+2600 
+1050 1150 1250 1350 1450 1550 1650 1750 1850 
+COTA A 
+CANTILEVER BEAM 
+EXTENSION 
+Pos. 1 1009 - 1135 
+Pos. 2 1136 - 1260 
+Pos. 3 1261 - 1385 
+Pos. 1 1386 - 1510 
+Pos. 2 1511 - 1635 
+Pos. 3 1636 - 1760 
+Table 1 
+Ø 125 Ø 150 
+T89/16 T90/16 
+T90/16 T114/16 
+T114-16 T125/16 
+T125-9 T127/16 
+T125-16 -
+T127-16 -
+Emax. = 4200 
+850-1600 
+Emin. = 3050 
+ DBG Range 
+GUIDE HEAD 
+ROLLER 
+(P+Q) max. (Kg.) 
+Roping 
+Max. Rated speed. (m/s) 
+Car frame weight (Kg.) 
+CANTILEVER BEAM 
+1210 
+CANTILEVER BEAM 
+1585 
+DIM "A" 
+Guide head 
+TABLE OF GENERAL FEATURES 
+2500 
+1:1 
+1
+RANGE "A" 
+See table 1 
+400 aprox. 
+DBG Range:  50 on 50 mm. 
+Extensions range 
+Ø 150 - G16
+Ø 125 - G9 / G16
+OPTIONAL:
+. Top support fixings.
+. Bottom silentblocks.
+* See table of P+Q according to dim A (total cantilever)
+P+Q TABLE ACCORDING TO DIMENSION A (total cantilever)
+Note: Data irrespective of DBG.
+DIM A
+STRAIGHT EQUATION
+(P+Q) = 3950 - A
+STRAIGHT EQUATION
+(P+Q) = 3550 - A
+Ed. 02
+Elevator  System Solutions
+Savera 
+EMESA
+F-10254_02
+
+```

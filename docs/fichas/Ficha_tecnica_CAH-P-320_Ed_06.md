@@ -1,0 +1,76 @@
+# Ficha tecnica CAH-P-320 Ed 06
+
+## Datos de la ficha
+
+- **Referencia:** CAH-P-320
+- **Familia:** CAH
+- **Edición:** 06
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica CAH-P-320 Ed 06.pdf`
+
+## Extracto técnico
+
+```
+Pág. 1/2
+CABEZAL HIDRAULICO PERPENDICULAR CAH-P-320 Ed. 06 
+FICHA TÉCNICA
+Elevator  System Solutions
+Savera 
+EMESA
+FR-7 054-01 
+SOPORTE ROZADERA 
+CABEZAL 
+PLACA LATERAL 
+CABEZAL 
+POLEA 330x4x8
+CTO. APOYO CILINDRO
+CARENADO CABEZAL 
+GUIADOR CAH
+REFUERZO PLACA 
+LATERAL CABEZAL 
+SOPORTE PERPENDICULAR
+TRAVESAÑO
+SUPERIOR CABEZAL 
+FIJACION PLACA LATERAL 
+A EJE CABEZAL 
+EJE CABEZAL 
+ESPADIN FIN
+DE CARRERA 
+CHAPA PROTECCION
+SUPERIOR
+ENGRASADOR (OPCIONAL)
+FICHA TÉCNICA
+Ed. 06 
+Pág. 2/2
+CABEZAL HIDRAULICO PERPENDICULAR CAH-P-320 
+Elevator  System Solutions
+Savera 
+EMESA
+FR-7 054-01 
+A = 80,100 o 120 
+346 
+170 
+727 
+312 269 
+562 112 
+674 
+155 
+108 
+A
+77 
+171 
+353 
+177 
+117 
+ENGRASADOR
+32 
+144 
+O 32 
+20 20 
+Peso aprox. : 40 Kg (± 3 Kg) 
+NOTA: Cabezal disponible para los rangos de
+entreguía 350-900 con saltos de 50 en  50 mm. 
+para guía 8-9 mm. 
+
+```

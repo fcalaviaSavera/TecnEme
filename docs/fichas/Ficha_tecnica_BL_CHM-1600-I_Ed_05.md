@@ -1,0 +1,375 @@
+# Ficha tecnica BL CHM-1600-I Ed 05
+
+## Datos de la ficha
+
+- **Referencia:** CHM-1600-I
+- **Familia:** CHM
+- **Edición:** 05
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica BL CHM-1600-I Ed 05.pdf`
+
+## Extracto técnico
+
+```
+CHASIS HIDRAULICO MOCHILA CHM-1600-I
+FICHA TÉCNICA Pág. 1/4
+TRAVESAÑO CIERRE SUPERIOR
+FIJACION TRAVESAÑO
+CIERRE SUPERIOR
+TOPE SUPERIOR
+CHASIS
+LARGUERO
+REFUERZO
+LARGUERO
+CONJUNTO TIRO
+DE CABLES
+CAJA DE CUÑAS
+SLC IT-100-S
+SLC IT-100-PLUS
+CALZA + PATIN GUIA
+SILENTBLOCKS INFERIORES
+(Opcional)
+TRAVESAÑO CIERRE
+DELANTERO CARTELA
+TRAVESAÑO INFERIOR
+DELANTERO
+CONJUNTO SISTEMA 
+AFLOJAMIENTO DE CABLES
+REFUERZO INTERIOR
+CARTELA - LARGUERO
+CONJUNTO TIRANTES
+FIJACION SUPERIOR
+CHASIS CABINA HIDRAULICO
+CHM-1250-I (Opcional)
+RODADERA Ø 150
+RODADERA Ø 150
+TRAVESAÑO INFERIOR
+TRASERO
+PROLONGADOR CARTELA
+CALZA + PATIN GUIA
+TERMINALES DE SUSPENSIÓN
+TECHNICAL SHEET Pg. 1/4
+CANTILEVER CAR FRAME HYDRAULIC CHM-1600-I
+UPPER CROSSBEAM
+FIXING FOR
+UPPER CROSSBEAM
+FRAME TOP LIMIT
+UPRIGHT
+UPRIGHT
+REINFORCEMENT
+PULLING BEAM
+SAFETY GEAR
+SLC IT-100-S
+SLC IT-100-PLUS
+SLIDING INSERT
++ GUIDE
+BOTTOM SILENTBLOCKS
+(Optional)
+FRONT CLOSSING
+CROSSBEAM
+CANTILEVER BEAM
+FRONT BOTTOM
+CROSSBEAM
+SLACK ROPE SYSTEM
+INTERIOR REINFORCEMENT
+UPRIGJT-CANTILEVER BEAM
+BRACES
+TOP SUPPORT FIXING
+(Optional)
+ROLLER Ø 150
+ROLLER Ø 150
+REAR BOTTOM
+CROSSBEAM
+CANTILEVER BEAM
+EXTENSION
+SLIDING INSERT + GUIDE
+ROPE ENDINGS
+Ed. 05
+Elevator  System Solutions
+Savera 
+EMESA
+F-10254_02
+CHASIS HIDRAULICO MOCHILA CHM-1600-I
+FICHA TÉCNICA Pág. 2/4
+(EG - 148)
+1/4 EG
+EG-2
+(Para cabinas
+EMESA)
+Zona apoyo amortiguador
+(Aconsejado)
+*Para cabinas de altura exterior
+H ≤ 2300 se puede reducir a
+Bmin = 206 mm.A
+B
+(EG - 54)1/4 EG
+(EG + 74)
+(Aconsejado)
+TECHNICAL SHEET Pg. 2/4
+CANTILEVER CAR FRAME HYDRAULIC CHM-1600-I
+A
+B
+(DBG + 74) 
+1/4 DBG (DBG - 54) 1/4 DBG 
+DBG-2 
+(DBG - 148) 
+(Recommended)
+(Recommended)
+(For EMESA cars)
+Buffer support plate
+*For cars with exterior height
+H ≤ 2300 "Z" measure can be
+reduced to Zmin = 206 mm.
+Ed. 05
+Elevator  System Solutions
+Savera 
+EMESA
+F-10254_02 Hmin : 2138 mm.
+Hmax : 2340 mm.
+V
+450
+3000
+300
+2790
+71
+A
+119 146
+331 129
+Zmin: 236 mm.*
+Zmax: 288 mm.
+115
+170
+Min = 11041
+OB Ø12,5 x 141
+A
+DET A 
+B
+DET B 
+350
+37
+139
+52
+170
+34
+Min = 110
+45
+37
+156
+317 168 
+50 
+CHASIS HIDRAULICO MOCHILA CHM-1600-I
+FICHA TÉCNICA Pág. 3/4
+6 x Ø 10 6 x Ø 12 
+SLC IT-100-S si (P+Q) ≤ 2500 
+SLC IT-100-PLUS si (P+Q) > 2500 
+PROLONGADOR RANGO "A" 
+Posic. 1 1009 - 1135 
+Posic. 2 1136 - 1260 
+Posic. 3 1261 - 1385 
+Posic. 1 1386 - 1510 
+Posic. 2 1511 - 1635 
+Posic. 3 1636 - 1760 
+Posic. 4 1761 - 1850 
+Tabla 1 
+0,5 Vel. Nominal max. (m/s) 
+Cables 
+Caja de cuñas 
+400x6x10 
+540 aprox. 
+Ver tabla 1 Guías permitidas 
+1100 - 1600 
+Peso chasis (Kg.) 
+400x6x10 
+520x6x12 Cabezal 
+T125/16 
+T127/16 
+EG en saltos de 50 en 50 mm. Rango EG 
+Rango Ø máx. camisa pistón 
+Ø cmax : 200 
+Ø cmax : 245 
+COTA "A" 
+CARTELA 1210 
+CARTELA 1585 
+TABLA CARACTERÍSTICAS GENERALES 
+T90/16 
+T114/16 GUÍAS PERMITIDAS 
+520x6x12 
+(P+Q) max. (Kg.) 3200 
+2:1 Suspensión 
+Omax
+*Ver tabla de P+Q en función de cota A (volado tota l)
+INCLUIDO:
+. Tensores cables
+OPCIONAL:
+. Fijaciones superiores a cabina.
+. Silentblocks inferiores.
+TABLA DE P+Q EN FUNCIÓN DE COTA A (volado total) 
+2700 
+2800 
+2900 
+3000 
+3100 
+3200 
+3300 
+1250 1350 1450 1550 1650 1750 1850 1950 
+COTA A 
+Nota: Datos independientes de la EG.
+ECUACIÓN RECTA
+(P+Q) = 4650 - A
+TECHNICAL SHEET Pg. 3/4
+CANTILEVER CAR FRAME HYDRAULIC CHM-1600-I
+2700 
+2800 
+2900 
+3000 
+3100 
+3200 
+3300 
+1250 1350 1450 1550 1650 1750 1850 1950 
+DIM A 
+P+Q TABLE ACCORDING TO DIMENSIONS A (total cantilever)
+Note: Data irrespective of DBG.
+STRAIGHT EQUATION
+(P+Q) = 4650 - A
+* See table of P+Q according to dim A (total cantilever)
+INCLUDING:
+. Rope endings
+OPTIONAL:
+. Top support fixings.
+. Botom silentblocks.
+6 x Ø 10 6 x Ø 12 
+SLC IT-100-S if (P+Q) ≤ 2500 
+SLC IT-100-PLUS if (P+Q) > 2500 
+CANTILEVER BEAM 
+EXTENSION 
+Posit. 1 1009 - 1135 
+Posit. 2 1136 - 1260 
+Posit. 3 1261 - 1385 
+Posit. 1 1386 - 1510 
+Posit. 2 1511 - 1635 
+Posit. 3 1636 - 1760 
+Posit. 4 1761 - 1850 
+Table 1 
+T114/16 GUIDE HEAD 
+520x6x12 
+(P+Q) max. (Kg.) 3200 
+2:1 Roping 
+T125/16 
+Ø cmax : 245 
+TABLE OF GENERAL FEATURES 
+See table 1 Guide head 
+1100 - 1600 
+Car frame weight (Kg.) 
+T90/16 
+Safety gear 
+400x6x10 
+520x6x12 Header 
+DIM "A" 
+CANTILEVER BEAM 
+1210 
+CANTILEVER BEAM 
+1585 
+RANGE "A" 
+0,5 Max. Rated speed (m/s) 
+Ropes 
+400x6x10 
+540 aprox. 
+T127/16 
+DBG Range: 50 on 50 mm. Range DBG 
+Max. Range Ø cylinder sleeve 
+Ø cmax : 200 
+Omax
+Ed. 05
+Elevator  System Solutions
+Savera 
+EMESA
+F-10254_02
+CHASIS HIDRAULICO MOCHILA CHM-1600-I
+FICHA TÉCNICA Pág. 4/4
+EG EG
+EG: Entreguía
+T: Tiro admitido
+CT: Centrado
+T   T   
+  EG   EG 
+1100 1100 
+1150 1150 
+1200 1200 
+1250 1250 
+1300 1300 
+1350 1350 
+1400 1400 
+1450 1450 
+1500 1500 
+1550 1550 
+1600 1600 
+800 
+850 
+900 
+850 
+900 
+725 
+750 
+775 
+775 
+650 
+700 
+750 
+675 
+725 
+800 
+Ø POLEA Ø 400 Ø 520 Ø POLEA 
+TIROS ADMITIDOS
+TECHNICAL SHEET Pg. 4/4
+CANTILEVER CAR FRAME HYDRAULIC CHM-1600-I
+Ø PULLEY Ø PULLEY 
+SAFETY GEAR SAFETY GEAR 
+T   T   
+DBG DBG 
+1100 1100 
+1150 1150 
+1200 1200 
+1250 1250 
+1300 1300 
+1350 1350 
+1400 1400 
+1450 1450 
+1500 1500 
+1550 1550 
+1600 1600 
+Ø 400 Ø 520 
+775 
+775 
+650 
+700 
+750 
+675 
+725 
+800 
+800 
+850 
+900 
+850 
+900 
+725 
+750 
+DBG: Distance Between guides
+T: Available suspension point
+CT: Centred
+DBG DBG 
+AVAILABLE SUSPENSION POINTS 
+Ed. 05
+Elevator  System Solutions
+Savera 
+EMESA
+F-10254_02
+T
+75
+O P O P
+T
+75
+75
+75
+
+```

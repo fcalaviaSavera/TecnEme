@@ -1,0 +1,137 @@
+# Ficha tecnica BL BT100 Desplazada Ed 01
+
+## Datos de la ficha
+
+- **Referencia:** BT100
+- **Familia:** BT100
+- **Edición:** 01
+- **Estado:** No distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\Fichas NO distribuidas\Productos Raloe\Ficha tecnica BL BT100 Desplazada Ed 01.pdf`
+
+## Extracto técnico
+
+```
+FICHA TÉCNICA Pág. 1 / 1
+BARANDILLA TELESCOPICA BT100 DESPLAZADA 
+LON GIT UD BARANDILLA BT 100 DE SP LAZAD A
+A Ancho plataforma 
+B Fondo plataforma 
+M Distancia izquierda barandilla al techo 
+N Distancia derecha barandilla al techo 
+M N
+128 128 
+168 … 250 168 … 250 
+128 128 
+168 … 250 168 … 250 
+137 128 
+168 … 250 168 … 250 
+BT100 90º 
+CHASIS MOCHILA 
+FONDO 
+CHASIS MOCHILA 
+LATERAL 
+CHASIS PORTICO 
+M N
+128 128 
+168 … 250 168 … 250 
+128 128 
+168 … 250 168 … 250 
+128 137 
+168 … 250 168 … 250 
+CHASIS MOCHILA 
+LATERAL 
+CHASIS MOCHILA 
+FONDO 
+BT100 270º 
+CHASIS PORTICO 
+M N
+CHASIS MOCHILA 
+LATERAL 
+CHASIS MOCHILA 
+FONDO 
+137 … 250 137 … 250 
+128 … 250 128 … 250 
+BT100 180º 
+CHASIS PORTICO 137 … 250 137 … 250 
+DETALLE A 
+TECHNICAL SHEET Pag. 1 / 1
+TELESCOPIC BALUSTRADE BT100 MOVED 
+DETAIL A 
+A Platform width 
+B Platform depth 
+M Left distance from balustrade to roof 
+N Right distance from balustrade to roof 
+M N
+128 128 
+168 … 250 168 … 250 
+128 128 
+168 … 250 168 … 250 
+137 128 
+168 … 250 168 … 250 
+BT100 90º 
+REAR CANTILEVER 
+CAR FRAME 
+SIDE CANTILEVER 
+CAR FRAME 
+PORTICO TYPE CAR 
+FRAME 
+M N
+128 128 
+168 … 250 168 … 250 
+128 128 
+168 … 250 168 … 250 
+128 137 
+168 … 250 168 … 250 
+SIDE CANTILEVER 
+CAR FRAME 
+REAR CANTILEVER 
+CAR FRAME 
+BT100 270º 
+PORTICO TYPE CAR 
+FRAME 
+M N
+SIDE CANTILEVER 
+CAR FRAME 
+REAR CANTILEVER 
+CAR FRAME 
+137 … 250 137 … 250 
+128 … 250 128 … 250 
+BT100 180º 
+PORTICO TYPE CAR 
+FRAME 137 … 250 137 … 250 
+BT 100 MOV ED BALUSTRADE LEN GHT 
+Ed. 
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_02 
+01
+ML = B - M - NN
+B
+A
+215 215 
+40 353 
+B
+M L = B - M - N N
+A
+215 215 
+40 353 
+215 215 215 215 
+54 ... 64 
+54 ... 64 
+54 ... 64 
+ N L = B - M - N  M 
+A
+B
+128 353 
+215 215 
+215 215 
+128 
+40 
+A
+ 
+54 ... 64 
+16 ... 26 
+
+```

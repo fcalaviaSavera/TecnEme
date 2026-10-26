@@ -1,0 +1,160 @@
+# Ficha tecnica PRC-PM Ed 02
+
+## Datos de la ficha
+
+- **Referencia:** No identificada
+- **Familia:** OTROS
+- **Edición:** 02
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha tecnica PRC-PM Ed 02.pdf`
+
+## Extracto técnico
+
+```
+PROTECCION DE CONTRAPESO, PRC-PM Ed. 02
+FICHA TÉCNICA
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_01
+Ed. 02
+Pg. 1/4
+ESCUADRA FIJACIÓN GUÍA 
+PANTALLA CONTRAPESO 
+CTO. PLACA PANTALLA CONTRAPESO 
+CTO. PLACA INFERIOR 
+PANTALLA CONTRAPESO 
+CTO. PLACA SUPERIOR 
+PANTALLA CONTRAPESO 
+PERFIL UNIÓN PLACAS 
+PANTALLA CONTRAPESO 
+ HPC ≤1420 
+ HPC>1420 
+ESCUADRA FIJACIÓN GUÍA 
+PANTALLA CONTRAPESO 
+Ed. 02
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_01
+PROTECCION DE CONTRAPESO, PRC-PM
+FICHA TÉCNICA Pg. 2/4
+HPC= EGCC+2HCC+6
+VPCC
+HCC  EGCC
+2000
+A
+DET. A 
+6
+67
+B
+DET. B 
+AACC 
+HCC 
+ HPC ≤1420 
+ELM 
+20 
+50 950 950 50 
+30 
+80 
+8
+VPCC 1
+VCC 
+Ed. 02
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_01
+PROTECCION DE CONTRAPESO, PRC-PM
+FICHA TÉCNICA Pg. 3/4
+HPC= EGCC+2HCC+6
+VPCC
+HCC  EGCC HCC 
+ HPC>1420 
+A
+DET. A 
+B
+DET. B 
+AACC 
+6
+67 
+21 
+10 
+1420 567 13 
+2000 
+30 
+80 
+VPCC 2
+ELM 
+50 950 950 50 
+VCC 
+VARIABLES MIN. MAX. 
+VPCC: 75 300 
+HCC: 35 89 
+EGCC: 180 1750 
+HPC <= 750 10 -
+750 < HPC <= 1420 20 -
+1420 < HPC 35 -
+INCLUYE: 
+Distancia entre EGCC y la cara exterior de la panta lla 
+DESCRIPCION 
+Valores fuera de los rangos de esta tabla, consulta r. 
+ELM Espacio libre mínimo 
+Datos mínimos para realizar el pedido: Cod. Pantalla, VPCC, EGCC, Guía contrapeso. 
+• 12 Bridas elásticas SL para guía de contrapeso 
+Altura guía contrapeso (b) 
+Entreguía contrapeso. 
+Ed. 02
+Savera 
+Elevator  System Solutions
+EMESA
+F-10254_01
+PROTECCION DE CONTRAPESO, PRC-PM
+FICHA TÉCNICA Pg. 4/4
+b / HCC
+a / VCC
+  c
+Modelo de pantalla según EGCC: 
+Cod. Pantalla EGCC 
+B200PL00PM10 180 ≤ EGCC ≤ 430 
+B200PL00PM20 430 < EGCC ≤ 665 
+B200PL00PM30 665 < EGCC ≤ 1274 
+B200PL00PM40 1274 < EGCC ≤ 1750 
+Tabla1: 
+GUIA (a/b/c) TIPO AACC M DBCC COD. BOLSA 4Ud. 
+ Ω (45/35/16) 
+T45/A (45/45/5) 
+T50/A (50/50/5) 68 
+T65/A 65/54/8) 83 
+T70/A (70/65/9) 94 
+T78/B (78/56/10) 102 
+T82/A-B (82/68/9) 106 
+T70-70-9/A (70/70/9) 106 
+T75/A-B (75/62/10) 111 
+T125-L1/A (125/68/9) 161 
+T80-80-9/A (80/80/9) 120 
+T89/A-B (89/62/16) 129 
+T90/A-B (90/75/16) 130 
+T114/B (114/89/16) 154 
+T125/B (125/82/16) 165 
+T127-1/B (127/89/16) 167 
+BRIDAS 
+9
+11 
+13 
+15 
+M8 
+SL3 
+Short 
+SL4 
+Short 
+920352513617 
+M14 920352513618 
+920352513624 SL2 
+M12 
+63 
+SL1 920352513616 
+M10 
+
+```

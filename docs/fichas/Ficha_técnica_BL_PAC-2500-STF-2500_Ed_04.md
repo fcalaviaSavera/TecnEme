@@ -1,0 +1,225 @@
+# Ficha técnica BL PAC-2500-STF-2500 Ed 04
+
+## Datos de la ficha
+
+- **Referencia:** PAC-2500-STF-2500
+- **Familia:** PAC
+- **Edición:** 04
+- **Estado:** Distribuida
+
+**Archivo:** `U:\CATALOGO TECNICO\CATALOGO TECNICO\Ficha técnica BL PAC-2500-STF-2500 Ed 04.pdf`
+
+## Extracto técnico
+
+```
+PILAR APOYO CILINDRO PAC-2500-STF
+FICHA TÉCNICA Pág. 1/4
+CENICERO 
+PILAR APOYO CILINDRO 125 
+BASE PILAR 
+APOYO CILINDRO 
+TENSORES 
+CABLE CON 
+MUELLE 
+RECOGEACEITE 
+BRIDAS 
+M4/M5 
+GUIA DE CABINA 
+CASO  MOSTRADO 
+PAC-2500-STF TIPO 1 
+TIRO DE 
+CABLES 
+Pg. 1/4TECHNICAL SHEET
+CYLINDER STAND PAC-2500-STF
+CYLINDER BASE 
+CYLINDER STAND 125 
+ROPE ENDINGS 
+WITH SPRING 
+CABIN FRAME 
+GUIDE 
+FORGED GUIDE 
+CLIP M4/M5 
+FOOTPLATE 
+BASE 
+OIL POT COLLECTOR 
+SHOWN 
+PAC-2500-STF TYPE 1 
+PULLING 
+PLATE 
+Ed.04
+Savera 
+Elevator  System Solutions
+EMESA
+F-10255_02
+PILAR APOYO CILINDRO PAC-2500-STF
+FICHA TÉCNICA Pág. 2/4
+F máx. 
+F máx./2 
+CHP-2500-I CHP-5000-I 
+CAH-400-6 542,5 - 153-185 186-215 216-245 
+CAH-520-6 602,5 602,5 T. máx. 232 258 284 
+CAH-550-6 - 619 C 213 241 266 
+Ø mín-máx. Camisa pistón 
+MODELO CHASIS 
+CABEZAL 
+  PAC-2500-STF TIPO 1
+Pg. 2/4TECHNICAL SHEET
+CYLINDER STAND PAC-2500-STF
+  PAC-2500-STF TYPE 1
+F max. 
+F max./2 
+CHP-2500-I CHP-5000-I 
+CAH-400-6 542,5 - 153-185 186-215 216-245 
+CAH-520-6 602,5 602,5 T. max. 232 258 284 
+CAH-550-6 - 619 C 213 241 266 
+G
+Ø min-max. Cylinder sleeve 
+CAR FRAME MODEL 
+HEADER 
+Ed.04
+Savera 
+Elevator  System Solutions
+EMESA
+F-10255_02
+286 
+51 
+365 
+G
+900 
+1057,5 
+      T 
+66 89 
+126 
+245 
+160 
+     C 
+Max. 2500 
+Hps 
+PILAR APOYO CILINDRO PAC-2500-STF
+FICHA TÉCNICA Pág. 3/4
+DETALLE FIJACION 
+GUIA DE CABINA 
+F máx. 
+F máx./2 
+Guía h1 
+T127-1/B 89 
+T127-2/B 89 
+T140-1/B 108 
+T140-2/B 102 
+(1) 
+(2) 
+T127-1/B, T127-2/B 
+Guía 
+T140-1/B, T140-2/B 
+  PAC-2500-STF TIPO 2
+Pg. 3/4TECHNICAL SHEET
+CYLINDER STAND PAC-2500-STF
+  PAC-2500-STF TYPE 2
+F max. 
+F max./2 
+CABIN FRAME 
+FIXATION DETAIL 
+Guide h1 
+T127-1/B 89 
+T127-2/B 89 
+T140-1/B 108 
+T140-2/B 102 
+Ed.04
+Savera 
+Elevator  System Solutions
+EMESA
+F-10255_02
+A
+B
+G
+286 
+51 
+E
+F
+126 
+Hps 
+h1   D   66 
+     T 
+220 
+126 
+146,5 (1) 
+162 (2) 
+220 
+     C 
+Máx. 2500 
+A B D G E F
+CAH-550-6-PM 1167 405 160 617 210 400 
+CAH-550-7-PM 1192 405 160 642 250 400 
+CAH-600-7-PM 1125 405 160 667 250 425 
+CAH-600-8-PM 1125 405 160 667 250 425 
+CAH-650-7-J 1150 435 190 692 310 425 
+CAH-650-8-J 1150 435 190 692 310 425 
+PILAR APOYO CILINDRO PAC-2500-STF
+FICHA TÉCNICA Pág. 4/4
+CAH-550-6 PM CAH-550-7  PM CAH-600-7 PM CAH-600-8 PM CAH-650-7 J CAH-650-8 J 
+F.máx. (P+Q) 12500 12500 15500 15500 17000 17000 
+Nº cables 6 7 7 8 7 8
+Ø Cables 
+Guía cabina 
+Hps máx. 
+Ø Camisa pistón (*) 
+(*) Considerado piston GMV 
+Nº mínimo de fijaciones: 1 inmediatamente debajo de l cenicero. 
+INCLUYE 
+12/14/16 Tensores de cable con muelle 
+PAC-2500-STF TIPO 2 
+12/13 
+T127-1/B, T127-2/B, T140-1/B, T140-2/B 
+3500 
+153-245 
+PAC-2500-STF TIPO 1 
+CAH-400-6, CAH-520-6, CAH-550-6 
+F.máx. (P+Q) 9500 
+Nº cables 5/6 
+Ø Cables 10/12/13 
+Guía cabina T127-1/B, T127-2/B 
+Hps máx. 3500 
+Ø Camisa pistón (*) 153-245 
+(*) Considerado piston GMV 
+Nº mínimo de fijaciones: 1 inmediatamente debajo de l cenicero. 
+INCLUYE 
+12 Tensores de cable con muelle 
+  CARACTERISTICAS GENERALES
+Pg. 4/4TECHNICAL SHEET
+CYLINDER STAND PAC-2500-STF
+  GENERAL FEATURES
+PAC-2500-STF TYPE 1 
+CAH-400-6, CAH-520-6, CAH-550-6 
+F.max. (P+Q) 9500 
+Ner  ropes 5/6 
+Ø ropes 10/12/13 
+Frame guides T127-1/B, T127-2/B 
+Hps max. 3500 
+Ø Cylinder sleeve (*) 153-245 
+(*) GMV cylinder considerated 
+Min. number of fixations: 1 below the cylinder base
+INCLUDING 
+12 Rope endings with spring 
+CAH-550-6 PM CAH-550-7  PM CAH-600-7 PM CAH-600-8 PM CAH-650-7 J CAH-650-8 J 
+F.max. (P+Q) 12500 12500 15500 15500 17000 17000 
+Ner  ropes 6 7 7 8 7 8
+Ø ropes 
+Frame guides 
+Hps max. 
+Ø Cylinder sleeve (*) 
+(*) GMV cylinder considerated  
+Min. number of fixations: 1 below the cylinder base
+INCLUDING 
+12/14/16 Rope endings with spring 
+PAC-2500-STF TYPE 2 
+12/13 
+T127-1/B, T127-2/B, T140-1/B, T140-2/B 
+3500 
+153-245 
+Ed.04
+Savera 
+Elevator  System Solutions
+EMESA
+F-10255_02
+
+```
